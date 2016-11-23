@@ -1,0 +1,84 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/red_light"
+            android:paddingBottom="@dimen/dimen_dp_16"
+            android:paddingTop="@dimen/dimen_dp_16"
+            >
+
+            <com.binary.heart.hearttouch.widget.AvatarImageView
+                android:layout_width="@dimen/dimen_dp_88"
+                android:layout_height="@dimen/dimen_dp_88"
+                android:layout_centerHorizontal="true"
+                android:id="@+id/imgv_head"/>
+
+
+            <ImageView
+                android:id="@+id/imgv_sex"
+                android:layout_height="@dimen/dimem_dp_28"
+                android:layout_width="@dimen/dimem_dp_28"
+                android:layout_alignBottom="@+id/imgv_head"
+                android:layout_alignRight="@+id/imgv_head"
+                android:layout_centerHorizontal="true"
+                android:background="@drawable/ic_alive_female"></ImageView>
+
+            <TextView
+                android:id="@+id/tv_nick"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:textColor="@color/white"
+                android:layout_below="@+id/imgv_head"
+                android:layout_marginTop="@dimen/dimen_dp_8"
+                android:gravity="center"
+                android:textSize="@dimen/dimen_dp_20"
+                android:text="nick name"/>
+
+            <TextView
+                android:id="@+id/tv_sign"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:textColor="@color/white"
+                android:layout_below="@+id/tv_nick"
+                android:layout_marginTop="@dimen/dimen_dp_8"
+                android:gravity="center"
+                android:textSize="@dimen/dimen_dp_16"
+                android:text="nick nfefefefefefame"/>
+
+        </RelativeLayout>
+
+        <com.binary.smartlib.ui.widget.SmartLinearLayout
+            android:id="@+id/ll_profile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_dp_12"
+            android:layout_marginTop="@dimen/dimen_dp_8"
+            android:background="@color/white"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ic_profile_me"/>
+
+            <TextView
+                style="@style/textstyle_title"
+                android:layout_gravity="center"
+                android:layout_marginLeft="@dimen/dimen_dp_16"
+                android:text="@string/title_profile"/>
+        </com.binary.smartlib.ui.widget.SmartLinearLayout>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

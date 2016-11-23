@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <include layout="@layout/ll_actionbar"></include>
+
+
+    <FrameLayout
+        android:id="@+id/fl_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"></FrameLayout>
+
+    <ImageView
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="@dimen/dimen_dp_8"
+        android:background="@color/gray_light"></ImageView>
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/dimen_dp_8"
+        android:background="@color/white"
+        android:weightSum="3" >
+
+        <RadioButton
+            android:id="@+id/rbtn_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/selector_msg"
+            android:gravity="center"
+            android:onClick="onRadioButtonClick"
+            android:text="@string/tab_msg"
+            android:textSize="@dimen/dimen_dp_12"
+            android:textColor="@drawable/selector_font"
+
+            />
+
+        <RadioButton
+            android:id="@+id/rbtn_discover"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/selector_discover"
+            android:gravity="center"
+            android:onClick="onRadioButtonClick"
+            android:textSize="@dimen/dimen_dp_12"
+            android:text="@string/tab_discover"
+            android:textColor="@drawable/selector_font"
+
+            />
+
+        <RadioButton
+            android:id="@+id/rbtn_profile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:button="@null"
+            android:drawableTop="@drawable/selector_profile"
+            android:gravity="center"
+            android:onClick="onRadioButtonClick"
+            android:textSize="@dimen/dimen_dp_12"
+            android:text="@string/tab_profile"
+            android:textColor="@drawable/selector_font"
+             />
+    </RadioGroup>
+
+
+</LinearLayout>

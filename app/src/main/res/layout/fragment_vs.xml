@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <com.binary.smartlib.ui.widget.SmartRelativeLayout
+            android:id="@+id/tv_caiquan"
+            android:layout_width="match_parent"
+            android:padding="@dimen/dimen_dp_12"
+            android:layout_height="wrap_content"
+            android:background="@color/white">
+
+            <ImageButton
+                android:id="@+id/caiquan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ic_caiquan"/>
+
+            <TextView
+                android:layout_toRightOf="@+id/caiquan"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/dimen_dp_8"
+                style="@style/textstyle_title"
+                android:text="猜拳"/>
+
+            <TextView
+                android:id="@+id/tv_cq_rate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:text="213/21"
+                />
+        </com.binary.smartlib.ui.widget.SmartRelativeLayout>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

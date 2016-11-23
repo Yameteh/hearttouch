@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.binary.smartlib.ui.widget.SmartRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="@dimen/dimen_dp_4"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="@dimen/dimen_dp_60"
+        android:layout_height="@dimen/dimen_dp_60"
+        android:id="@+id/imgv_item_head"/>
+
+    <LinearLayout
+        android:layout_toRightOf="@+id/imgv_item_head"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/dimen_dp_4"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/textstyle_title"
+            android:id="@+id/tv_item_nick"
+            android:textSize="@dimen/dimen_dp_20"/>
+
+        <TextView
+            style="@style/textstyle_title"
+            android:singleLine="true"
+            android:id="@+id/tv_item_sign"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_centerVertical="true"
+        android:id="@+id/imgv_lock"
+        android:layout_width="@dimen/dimen_dp_38"
+        android:layout_height="@dimen/dimen_dp_38"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_heart_lock"/>
+</com.binary.smartlib.ui.widget.SmartRelativeLayout>

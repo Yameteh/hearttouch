@@ -1,0 +1,107 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:id="@+id/rl_msgnav"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        >
+
+        <ImageView
+            android:id="@+id/imgv_msg_head"
+            android:layout_width="@dimen/dimen_dp_88"
+            android:layout_height="@dimen/dimen_dp_88"
+            android:layout_margin="@dimen/dimen_dp_8"
+            android:background="@drawable/msg_default_headface" />
+
+            <TextView
+                android:layout_margin="@dimen/dimen_dp_8"
+                android:id="@+id/tv_msg_accout"
+                android:layout_toRightOf="@+id/imgv_msg_head"
+                android:textSize="@dimen/dimem_dp_28"
+                android:textColor="@color/black"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                />
+
+            <com.binary.smartlib.ui.widget.SmartCornerButton
+                android:id="@+id/btn_lock"
+                android:layout_width="@dimen/dimen_dp_38"
+                android:layout_height="@dimen/dimen_dp_38"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/dimen_dp_8"
+                android:layout_alignBottom="@+id/tv_msg_accout"
+                android:background="@drawable/ic_lock"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginLeft="@dimen/dimen_dp_8"
+                android:layout_marginRight="@dimen/dimen_dp_8"
+                android:layout_toRightOf="@+id/imgv_msg_head"
+                android:layout_below="@+id/tv_msg_accout"
+                android:background="@color/gray_light">
+
+            </View>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/dimen_dp_8"
+            android:layout_alignBottom="@+id/imgv_msg_head"
+            android:layout_toRightOf="@+id/imgv_msg_head"
+            android:orientation="horizontal">
+
+            <com.binary.smartlib.ui.widget.SmartCornerButton
+                android:id="@+id/btn_msg_new"
+                android:layout_width="@dimen/dimen_dp_30"
+                android:layout_height="@dimen/dimen_dp_30"
+                android:background="@drawable/ic_msg_new"/>
+
+
+            <com.binary.smartlib.ui.widget.SmartCornerButton
+                android:id="@+id/btn_msg_map"
+                android:layout_width="@dimen/dimen_dp_30"
+                android:layout_height="@dimen/dimen_dp_30"
+                android:layout_marginLeft="@dimen/dimen_dp_16"
+                android:background="@drawable/ic_msg_map"/>
+
+            <com.binary.smartlib.ui.widget.SmartCornerButton
+                android:id="@+id/btn_msg_at"
+                android:layout_width="@dimen/dimen_dp_30"
+                android:layout_height="@dimen/dimen_dp_30"
+                android:layout_marginLeft="@dimen/dimen_dp_16"
+                android:background="@drawable/ic_at_normal"/>
+
+            <com.binary.smartlib.ui.widget.SmartCornerButton
+                android:id="@+id/btn_msg_game"
+                android:layout_width="@dimen/dimen_dp_30"
+                android:layout_height="@dimen/dimen_dp_30"
+                android:layout_marginLeft="@dimen/dimen_dp_16"
+                android:background="@drawable/ic_msg_game"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/rl_msgnav"
+        android:id="@+id/fl_msgcontainer">
+    </FrameLayout>
+
+
+
+    <com.binary.heart.hearttouch.widget.LoadingView
+        android:id="@+id/msg_loading"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></com.binary.heart.hearttouch.widget.LoadingView>
+
+</RelativeLayout>

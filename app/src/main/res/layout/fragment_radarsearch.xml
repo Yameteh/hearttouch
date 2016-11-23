@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.binary.heart.hearttouch.widget.RadarScanView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.binary.heart.hearttouch.widget.RandomTextView
+        android:id="@+id/tv_random"
+        android:layout_centerInParent="true"
+        android:layout_width="300dp"
+        android:layout_height="300dp"></com.binary.heart.hearttouch.widget.RandomTextView>
+
+    <com.binary.heart.hearttouch.widget.LoadingView
+        android:id="@+id/v_binding"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </com.binary.heart.hearttouch.widget.LoadingView>
+</RelativeLayout>

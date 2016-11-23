@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 去除ActionBar-->
+    <style name="HeartAppBaseTheme" parent="@android:style/Theme.Holo.Light.NoActionBar">
+    </style>
+</resources>

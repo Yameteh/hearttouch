@@ -1,0 +1,2130 @@
+[
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_406.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_406.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_237.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_237.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_57.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_57.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_254.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_254.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_170.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_170.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_12.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_12.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_299.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_299.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_153.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_153.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_367.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_367.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_322.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_322.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_198.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_198.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_107.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_107.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_74.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_74.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_468.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_468.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_423.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_423.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_1.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_1.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_384.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_384.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emotion_del_normal.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emotion_del_normal.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/support_logo.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/exploded-aar/HeartTouch/smartLib/unspecified/res/drawable-hdpi-v4/support_logo.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_355.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_355.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_41.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_41.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_141.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_141.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_208.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_208.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_136.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_136.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_435.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_435.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_ohter.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_ohter.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_283.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_283.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_440.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_440.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_28.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_28.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_169.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_169.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_221.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_221.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_182.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_182.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_165.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_165.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_112.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_112.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_70.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_70.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_351.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_351.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_396.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_396.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/tab_item_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/tab_item_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_309.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_309.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/actionbar_background.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/actionbar_background.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_411.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_411.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_464.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_464.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_379.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_379.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_326.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_326.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_295.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_295.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_250.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_250.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_16.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_16.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_310.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_310.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_380.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_380.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_86.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_86.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_452.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_452.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_194.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_194.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_338.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_338.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_191.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_191.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_225.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_225.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_439.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_439.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_124.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_124.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_45.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_45.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_266.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_266.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_376.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_376.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_331.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_331.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_414.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_414.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/file_attach_folder.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/file_attach_folder.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_459.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_459.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_262.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_262.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_301.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_301.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_8.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_8.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_49.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_49.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_100.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_100.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_415.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_415.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_82.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_82.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_115.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_115.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_229.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_229.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_145.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_145.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_280.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_280.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_33.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_33.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_144.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_144.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_330.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_330.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_278.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_278.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_291.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_291.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_174.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_174.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_443.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_443.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_98.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_98.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/voice_rcd_hint_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/voice_rcd_hint_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_393.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_393.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_360.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_360.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_347.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_347.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_213.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_213.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_txt.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_txt.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_62.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_62.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_120.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_120.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_173.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_173.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_15.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_15.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_317.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_317.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/input_bar_bg_normal.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/input_bar_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_296.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_296.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/amp5.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/amp5.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/unread_dot.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/unread_dot.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_249.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_249.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_204.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_204.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_69.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_69.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_24.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_24.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_318.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_318.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/icon_update_point.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/icon_update_point.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_287.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_287.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_242.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_242.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_183.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_183.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_258.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_258.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/sysmsg_item_top.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/sysmsg_item_top.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_116.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_116.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_444.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_444.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_189.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_189.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_233.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_233.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_375.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_375.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_346.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_346.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_271.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_271.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_53.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_53.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_78.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_78.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_308.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_308.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_91.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_91.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_302.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_302.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/app_panel_pic_icon_shade_pressed.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/app_panel_pic_icon_shade_pressed.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_470.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_470.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_123.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_123.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_337.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_337.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_168.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_168.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_199.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_199.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_306.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_306.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_467.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_467.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_354.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_354.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_notification_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_notification_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_399.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_399.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_422.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_422.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_407.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_407.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_284.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_284.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_410.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_410.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_44.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_44.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_419.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_419.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_424.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_424.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_58.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_58.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_352.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_352.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_272.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_272.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/unread_count_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/unread_count_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_286.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_286.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_125.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_125.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_238.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_238.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_92.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_92.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_11.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_11.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_385.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_385.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_171.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_171.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_339.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_339.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/common_top_bar_arrow_down.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/common_top_bar_arrow_down.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_166.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_166.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_224.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_224.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_279.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_279.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_420.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_420.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_465.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_465.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_203.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_203.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_417.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_417.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_251.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_251.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_23.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_23.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_71.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_71.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_364.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_364.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_304.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_304.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_111.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_111.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_181.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_181.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_156.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_156.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_118.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_118.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_54.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_54.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_99.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_99.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_234.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_234.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_342.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_342.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_395.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_395.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_316.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_316.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_0.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_0.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_455.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_455.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_241.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_241.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_13.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_13.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_269.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_269.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_108.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_108.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_389.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_389.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_178.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_178.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_89.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_89.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_228.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_228.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_61.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_61.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_48.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_48.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_282.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_282.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/im_attach_folder.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/im_attach_folder.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_121.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_121.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/amp6.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/amp6.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_176.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_176.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_231.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_231.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/contacts_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/contacts_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_359.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_359.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_18.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_18.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_362.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_362.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_314.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_314.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_246.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_246.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_201.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_201.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_292.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_292.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_392.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_392.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_21.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_21.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_329.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_329.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_429.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_429.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_131.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_131.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_161.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_161.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_51.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_51.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/amp1.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/amp1.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/im_attach_back.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/im_attach_back.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_216.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_216.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_427.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_427.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_294.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_294.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_289.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_289.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_344.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_344.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_66.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_66.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_36.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_36.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_133.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_133.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/dial_button_edit_normal.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/dial_button_edit_normal.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_377.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_377.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_432.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_432.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_128.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_128.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/dividing_lines.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/dividing_lines.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_390.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_390.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_158.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_158.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_334.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_334.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_409.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_409.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_148.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_148.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_196.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_196.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_151.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_151.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_84.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_84.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_31.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_31.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ccp_dialog_background.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ccp_dialog_background.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_349.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_349.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_457.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_457.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_5.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_5.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_pdf.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_pdf.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_412.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_412.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_264.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_264.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_46.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_46.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_103.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_103.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_211.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_211.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_387.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_387.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_226.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_226.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_450.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_450.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_186.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_186.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_94.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_94.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_324.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_324.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_460.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_460.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_397.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_397.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/input_bar_bg_active.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/input_bar_bg_active.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_372.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_372.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_138.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_138.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/rcd_cancel_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/rcd_cancel_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_236.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_236.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_447.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_447.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_56.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_56.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_274.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_274.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_113.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_113.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_26.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_26.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_268.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_268.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_223.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_223.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emotion_del_down.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emotion_del_down.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/amp7.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/amp7.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_206.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_206.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_48_outer_holo.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_370.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_370.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/system_msgbox_bg_pressed.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/system_msgbox_bg_pressed.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_454.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_454.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_307.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_307.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_184.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_184.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_353.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_353.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_398.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_398.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_43.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_43.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_437.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_437.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_88.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_88.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_369.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_369.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/login_input_box_02.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/login_input_box_02.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_297.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_297.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_449.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_449.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_341.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_341.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_60.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_60.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_55.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_55.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_122.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_122.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ccp_trans.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ccp_trans.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_14.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_14.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_382.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_382.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_336.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_336.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_235.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_235.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_240.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_240.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_408.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_408.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_155.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_155.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_421.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_421.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_320.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_320.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_273.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_273.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_303.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_303.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_348.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_348.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/dialog_load.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/dialog_load.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_143.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_143.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_117.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_117.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_76.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_76.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_357.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_357.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_38.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_38.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_256.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_256.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/dial_button_normal.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/dial_button_normal.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_93.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_93.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_442.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_442.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_134.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_134.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_218.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_218.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/amp3.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/amp3.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_3.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_3.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_319.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_319.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_172.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_172.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_244.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_244.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_386.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_386.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/confirm_button.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/confirm_button.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_433.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_433.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_10.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_10.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_430.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_430.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_16_inner_holo.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/spinner_16_inner_holo.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_67.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_67.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_332.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_332.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/voice_rcd_btn_pressed.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/voice_rcd_btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_285.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_285.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_247.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_247.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_64.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_64.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_458.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_458.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_105.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_105.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/chatto_bg_voice_downloading.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/chatto_bg_voice_downloading.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_276.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_276.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_79.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_79.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_445.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_445.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_34.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_34.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_193.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_193.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_7.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_7.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_81.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_81.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_146.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_146.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/msg_state_sending.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/msg_state_sending.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_159.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_159.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_259.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_259.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_214.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_214.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_462.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_462.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_101.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_101.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_192.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_192.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_261.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_261.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_96.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_96.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_215.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_215.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_345.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_345.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_35.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_35.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_48_inner_holo.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_416.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_416.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/list_item_normal.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/list_item_normal.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_63.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_63.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_130.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_130.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_52.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_52.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_188.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_188.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_243.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_243.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/app_panel_pic_icon_shade_normal.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/app_panel_pic_icon_shade_normal.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_328.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_328.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_232.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_232.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_374.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_374.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_163.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_163.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_365.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_365.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_248.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_248.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/rcd_cancel_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/rcd_cancel_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_312.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_312.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_68.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_68.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_425.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_425.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_rar.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_rar.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/login_input_box.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/login_input_box.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_311.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_311.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_164.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_164.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_281.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_281.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_356.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_356.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/amp4.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/amp4.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_434.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_434.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_126.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_126.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_179.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_179.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_350.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_350.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/chat_input_text_notify_normal.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/chat_input_text_notify_normal.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_469.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_469.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_394.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_394.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_327.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_327.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_252.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_252.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/confirm_button_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/confirm_button_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_97.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_97.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_135.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_135.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_277.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_277.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_340.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_340.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_321.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_321.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_290.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_290.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_110.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_110.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_239.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_239.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_59.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_59.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_463.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_463.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_72.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_72.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/voice_rcd_btn_nor.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/voice_rcd_btn_nor.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_137.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_137.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_90.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_90.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_73.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_73.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_323.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_323.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_87.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_87.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_106.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_106.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_42.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_42.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_img.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_img.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_270.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_270.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_2.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_2.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_154.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_154.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_207.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_207.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_267.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_267.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/bomb_box_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/bomb_box_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_253.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_253.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_368.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_368.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_298.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_298.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_453.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_453.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_27.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_27.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_219.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_219.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/exploded-aar/HeartTouch/smartLib/unspecified/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_152.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_152.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_39.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_39.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_438.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_438.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_325.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_325.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_doc.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_doc.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_185.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_185.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_25.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_25.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_30.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_30.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_139.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_139.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_210.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_210.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_205.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_205.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_371.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_371.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_366.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_366.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_373.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_373.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_29.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_29.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_448.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_448.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_212.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_212.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_257.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_257.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_209.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_209.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/voice_to_short.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/voice_to_short.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/spinner_16_outer_holo.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/spinner_16_outer_holo.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_149.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_149.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_77.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_77.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_32.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_32.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/system_msgbox_bg_normal.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/system_msgbox_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_426.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_426.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_187.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_187.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_150.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_150.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_313.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_313.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_102.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_102.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_83.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_83.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_ppt.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_ppt.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_197.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_197.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_127.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_127.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_335.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_335.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_383.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_383.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/contacts_bg_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/contacts_bg_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_222.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_222.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_175.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_175.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_288.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_288.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_260.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_260.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_436.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_436.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_140.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_140.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_263.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_263.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_6.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_6.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_80.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_80.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_20.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_20.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_162.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_162.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_431.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_431.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_65.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_65.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_293.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_293.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/amp2.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/amp2.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_461.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_461.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_114.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_114.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_361.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_361.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_315.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_315.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/ytx_file_attach_xls.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/ytx_file_attach_xls.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_300.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_300.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_245.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_245.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_200.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_200.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_129.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_129.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_19.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_19.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/common_top_bar_arrow_up.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/common_top_bar_arrow_up.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_147.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_147.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_202.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_202.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_275.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_275.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_333.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_333.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_227.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_227.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_47.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_47.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_446.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_446.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_95.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_95.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_388.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_388.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_17.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_17.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_160.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_160.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_177.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_177.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_363.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_363.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_22.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_22.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_190.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_190.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/chatfrom_bg_voice_downloading.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/chatfrom_bg_voice_downloading.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_358.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_358.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_413.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_413.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_220.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_220.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_265.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_265.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_37.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_37.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_456.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_456.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_157.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_157.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_381.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_381.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_109.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_109.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_451.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_451.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_217.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_217.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_418.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_418.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_104.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_104.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_4.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_4.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_40.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_40.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_85.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_85.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_195.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_195.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_142.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_142.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_119.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_119.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_180.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_180.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_255.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_255.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_441.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_441.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_378.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_378.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_167.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_167.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_391.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_391.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_230.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_230.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_50.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_50.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_132.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_132.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_343.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_343.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_428.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_428.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/icon_touxiang_persion_gray.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/icon_touxiang_persion_gray.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_75.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_75.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/enter.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/enter.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_466.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_466.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/drawable-hdpi-v4/emoji_305.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/drawable-hdpi/emoji_305.png"
+    }
+]

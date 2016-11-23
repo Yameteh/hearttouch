@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_dialog_title"
+        style="@style/textstyle_title"
+        android:padding="@dimen/dimen_dp_8"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/red_light"></View>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/dimen_dp_16">
+        <EditText
+            android:id="@+id/tv_dialog_input"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:singleLine="true"
+            />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/gray_light"></View>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <com.binary.smartlib.ui.widget.SmartCornerButton
+            android:id="@+id/btn_dialog_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="@dimen/dimen_dp_4"
+            android:paddingBottom="@dimen/dimen_dp_4"
+            android:textColor="@color/red_light"
+            android:layout_weight="1"
+            android:text="@string/btn_cancel" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="@color/gray_light"></View>
+        <com.binary.smartlib.ui.widget.SmartCornerButton
+            android:id="@+id/btn_dialog_ok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:paddingTop="@dimen/dimen_dp_4"
+            android:paddingBottom="@dimen/dimen_dp_4"
+            android:textColor="@color/red_light"
+            android:text="@string/btn_ok"/>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,41 @@
+<resources>
+    <style name="textstyle_actionbar" >
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/dimen_dp_20</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="textstyle_title">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:textColor">@color/red_light</item>
+        <item name="android:textSize">@dimen/dimen_dp_16</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="hPrgDialog_style" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+
+        <declare-styleable name="HeartLayout">
+            <attr name="initX" format="dimension" />
+            <attr name="initY" format="dimension" />
+            <attr name="xRand" format="dimension" />
+            <attr name="animLengthRand" format="dimension" />
+            <attr name="xPointFactor" format="dimension" />
+            <attr name="animLength" format="dimension" />
+            <attr name="heart_width" format="dimension" />
+            <attr name="heart_height" format="dimension" />
+            <attr name="bezierFactor" format="integer" />
+            <attr name="anim_duration" format="integer" />
+        </declare-styleable>
+</resources>

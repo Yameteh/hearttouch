@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">心触</string>
+    <string name="app_theme">记录你的每一次心灵触动</string>
+    <string name="account_register">用户注册</string>
+    <string name="account_login">用户登录</string>
+    <string name="action_settings">Settings</string>
+    <string name="tohome">to home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="tab_msg">消息</string>
+    <string name="tab_profile">我</string>
+    <string name="tab_discover">发现</string>
+
+    <string name="reg_account">帐号:</string>
+    <string name="reg_pwd">密码:</string>
+    <string name="reg_confirmpwd">确认密码:</string>
+    <string name="reg_loading">注册中...</string>
+
+    <string name="login_loading">登录中...</string>
+    <string name="login_error">登录失败</string>
+    <string name="btn_ok">确定</string>
+    <string name="btn_cancel">取消</string>
+
+    <string name="toast_reg_pwderr">密码不一致</string>
+    <string name="toast_login_pwderr">帐号或密码错误</string>
+    <string name="edit_digits">0123456789qwertyuiopasdfghjklzxcvbnm</string>
+
+    <string name="title_profile">个人信息</string>
+    <string name="title_myinfo_nick">昵称</string>
+    <string name="title_myinfo_sex">性别</string>
+    <string name="title_myinfo_sign">签名</string>
+    <string name="title_myinfo_loc">位置</string>
+
+    <string name="info_male">男</string>
+    <string name="info_female">女</string>
+    <string name="toast_myinfo_uploaderr">信息提交失败</string>
+    <string name="loading_getbindprofile">正在获取对方数据...</string>
+
+    <string name="loading_search">玩命搜索中</string>
+    <string name="title_caiquan">猜拳</string>
+    <string name="title_msg_im">聊天消息</string>
+    <string name="title_msg_notify">通知信息</string>
+    <string name="title_bindreq">向%s发送心动消息</string>
+    <string name="hint_bindreq">心动信息</string>
+    <string name="hint_thisme">我是%s</string>
+</resources>

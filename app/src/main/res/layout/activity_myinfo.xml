@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/ll_actionbar"></include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.binary.smartlib.ui.widget.SmartLinearLayout
+            android:id="@+id/ll_nick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_dp_12"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_marginTop="@dimen/dimen_dp_8">
+
+            <TextView
+                style="@style/textstyle_title"
+                android:text="@string/title_myinfo_nick"/>
+
+            <TextView
+                android:id="@+id/tv_myinfo_nick"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"/>
+        </com.binary.smartlib.ui.widget.SmartLinearLayout>
+
+        <com.binary.smartlib.ui.widget.SmartLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_dp_12"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:id="@+id/ll_sex"
+            android:layout_marginTop="@dimen/dimen_dp_8">
+
+            <TextView
+                style="@style/textstyle_title"
+                android:text="@string/title_myinfo_sex"/>
+
+            <TextView
+                android:id="@+id/tv_myinfo_sex"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"/>
+        </com.binary.smartlib.ui.widget.SmartLinearLayout>
+
+        <com.binary.smartlib.ui.widget.SmartLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_dp_12"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_marginTop="@dimen/dimen_dp_8">
+
+            <TextView
+                style="@style/textstyle_title"
+                android:text="@string/title_myinfo_loc"/>
+
+            <TextView
+                android:id="@+id/tv_myinfo_loc"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"/>
+        </com.binary.smartlib.ui.widget.SmartLinearLayout>
+
+        <com.binary.smartlib.ui.widget.SmartLinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/dimen_dp_12"
+            android:orientation="horizontal"
+            android:background="@color/white"
+            android:layout_marginTop="@dimen/dimen_dp_8">
+
+            <TextView
+                style="@style/textstyle_title"
+                android:text="@string/title_myinfo_sign"/>
+
+
+        </com.binary.smartlib.ui.widget.SmartLinearLayout>
+
+        <EditText
+            android:id="@+id/edit_myinfo_sign"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="@dimen/dimen_dp_12"
+            android:background="@drawable/sign_edit"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/anim/ytx_buttomtip_out.xml",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/anim/ytx_buttomtip_out.xml"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/anim/ytx_buttomtip_in.xml",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/anim/ytx_buttomtip_in.xml"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/anim/ytx_loading.xml",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/anim/ytx_loading.xml"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/release/anim/ytx_anim_not_change.xml",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/res/anim/ytx_anim_not_change.xml"
+    }
+]

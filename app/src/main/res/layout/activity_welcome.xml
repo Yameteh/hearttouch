@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_red">
+
+    <LinearLayout
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical">
+       <ImageView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:background="@drawable/icon"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/red_light"
+            android:textSize="@dimen/dimen_dp_20"
+            android:paddingTop="@dimen/dimen_dp_20"
+            android:text="@string/app_name"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/red_light"
+            android:paddingTop="10dp"
+            android:textSize="@dimen/dimen_dp_16"
+            android:text="@string/app_theme"
+            />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/welcome_select"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:gravity="bottom|center"
+        android:padding="@dimen/dimen_dp_30">
+
+        <com.binary.smartlib.ui.widget.SmartCornerButton
+            android:id="@+id/btn_wel_reg"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dimen_dp_38"
+            android:layout_weight="1"
+            android:background="@drawable/shape_btn_normal"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textSize="@dimen/dimen_dp_16"
+            android:text="注册"/>
+
+        <com.binary.smartlib.ui.widget.SmartCornerButton
+            android:id="@+id/btn_wel_login"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dimen_dp_38"
+            android:background="@drawable/shape_btn_normal"
+            android:layout_weight="1"
+            android:layout_marginLeft="@dimen/dimen_dp_8"
+            android:textColor="@color/white"
+            android:gravity="center"
+            android:textSize="@dimen/dimen_dp_16"
+            android:text="登录"/>
+    </LinearLayout>
+
+</FrameLayout>

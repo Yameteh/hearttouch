@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/ll_actionbar"></include>
+    
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_dp_12"
+                android:background="@color/white"
+                android:padding="@dimen/dimen_dp_12">
+
+                <TextView
+                    android:id="@+id/tv_reg_account"
+                    style="@style/textstyle_title"
+                    android:paddingRight="@dimen/dimen_dp_12"
+                    android:text="@string/reg_account" />
+
+                <EditText
+                    android:id="@+id/edit_reg_account"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/tv_reg_account"
+                    android:background="@null"
+                    android:maxLength="15"
+                    android:digits="@string/edit_digits"
+                    android:cursorVisible="true" />
+
+                <Button
+                    android:id="@+id/btn_regAccount_delete"
+                    android:layout_width="@dimen/dimem_dp_28"
+                    android:layout_height="@dimen/dimem_dp_28"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/ic_edit_delete"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_dp_12"
+                android:background="@color/white"
+                android:padding="@dimen/dimen_dp_12">
+
+                <TextView
+                    android:id="@+id/tv_reg_pwd"
+                    style="@style/textstyle_title"
+                    android:paddingRight="@dimen/dimen_dp_12"
+                    android:text="@string/reg_pwd" />
+
+                <EditText
+                    android:id="@+id/edit_reg_pwd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/tv_reg_pwd"
+                    android:background="@null"
+                    android:inputType="textPassword"
+                    android:maxLength="30"
+                    android:digits="@string/edit_digits"
+                    android:singleLine="true" />
+
+                <Button
+                    android:id="@+id/btn_regpwd_delete"
+                    android:layout_width="@dimen/dimem_dp_28"
+                    android:layout_height="@dimen/dimem_dp_28"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/ic_edit_delete"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/dimen_dp_12"
+                android:background="@color/white"
+                android:padding="@dimen/dimen_dp_12">
+
+                <TextView
+                    android:id="@+id/tv_reg_confirmpwd"
+                    style="@style/textstyle_title"
+                    android:paddingRight="@dimen/dimen_dp_12"
+                    android:text="@string/reg_confirmpwd" />
+
+                <EditText
+                    android:id="@+id/edit_reg_confirmpwd"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@+id/tv_reg_confirmpwd"
+                    android:background="@null"
+                    android:inputType="textPassword"
+                    android:maxLength="30"
+                    android:digits="@string/edit_digits"
+                    android:singleLine="true" />
+
+                <Button
+                    android:id="@+id/btn_regconfirmpwd_delete"
+                    android:layout_width="@dimen/dimem_dp_28"
+                    android:layout_height="@dimen/dimem_dp_28"
+                    android:layout_alignParentRight="true"
+                    android:background="@drawable/ic_edit_delete"
+                    android:visibility="invisible" />
+            </RelativeLayout>
+
+            <com.binary.smartlib.ui.widget.SmartCornerButton
+                android:id="@+id/btn_reg_ok"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/dimen_dp_48"
+                android:layout_marginLeft="@dimen/dimen_dp_12"
+                android:layout_marginRight="@dimen/dimen_dp_12"
+                android:layout_marginTop="@dimen/dimem_dp_28"
+                android:background="@drawable/selector_btn"
+                android:gravity="center"
+                android:text="@string/btn_ok"
+                android:textColor="@color/white" />
+        </LinearLayout>
+
+
+        <com.binary.heart.hearttouch.widget.LoadingView
+            android:id="@+id/v_loading"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></com.binary.heart.hearttouch.widget.LoadingView>
+
+    </RelativeLayout>
+
+
+</LinearLayout>
+
+
+
+

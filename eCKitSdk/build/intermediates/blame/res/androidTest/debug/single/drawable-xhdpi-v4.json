@@ -1,0 +1,426 @@
+[
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/handsfree_icon_not_point.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/handsfree_icon_not_point.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/choose_icon_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/choose_icon_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/personal_center_head_portrait.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/personal_center_head_portrait.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_chat_newmsg_alram.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_chat_newmsg_alram.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/hook_icon_01_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/hook_icon_01_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_unread_message.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_unread_message.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_camera_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_camera_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/camera_switch.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/camera_switch.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bread_crumbs_00.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bread_crumbs_00.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_camera.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_camera.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bread_crumbs_01.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bread_crumbs_01.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_left_01.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_left_01.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_file.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_file.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bread_crumbs_01_b.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bread_crumbs_01_b.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/chating_left_01.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/chating_left_01.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_rcd_cancel_bg.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_rcd_cancel_bg.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_loading.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_loading.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bread_crumbs_01_a.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bread_crumbs_01_a.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/icon_list_fastscroll_selected_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/icon_list_fastscroll_selected_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/chating_right_02_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/chating_right_02_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_push_button_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_push_button_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/exploded-aar/HeartTouch/smartLib/unspecified/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/video_to_speech_icon_not_point.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/video_to_speech_icon_not_point.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/mute_icon_not_point.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/mute_icon_not_point.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/switch_icon_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/switch_icon_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/handsfree_icon_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/handsfree_icon_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/answering_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/answering_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_bar_back.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_bar_back.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/hook_icon_01.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/hook_icon_01.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_images.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_images.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_icon_05.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_icon_05.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_rcd_btn_nor.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_rcd_btn_nor.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_push_button.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_push_button.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bread_crumbs_00_a.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bread_crumbs_00_a.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/red_button.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/red_button.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/system_button_press.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/system_button_press.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/chating_right_02.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/chating_right_02.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_bar_button.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_bar_button.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_message.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_message.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_rcd_btn_talk_press.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_rcd_btn_talk_press.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/back_press.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/back_press.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/hook_icon_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/hook_icon_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_icon_04.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_icon_04.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/share_button_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/share_button_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/accessory_left.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/accessory_left.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_topbar_save.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_topbar_save.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/contacts_backup_button_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/contacts_backup_button_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_push_button_on_02.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_push_button_on_02.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_file_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_file_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/switch_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/switch_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_03_d.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_03_d.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_bar_detail.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_bar_detail.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_03.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_03.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_03_on_d.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_03_on_d.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bg_call.jpg",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bg_call.jpg"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/lefttype.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/lefttype.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_01_on_d.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_01_on_d.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/video_to_speech_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/video_to_speech_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/determine_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/determine_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/share_button.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/share_button.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_images_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_images_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/handsfree_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/handsfree_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_right_01.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_right_01.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voip_bg.jpg",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voip_bg.jpg"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_03_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_03_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/righttype.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/righttype.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_right_02.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_right_02.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_bar_group_details_01.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_bar_group_details_01.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/answering_icon_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/answering_icon_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/contacts_backup_button_bg_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/contacts_backup_button_bg_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/time_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/time_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/red_button_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/red_button_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/default_avatar.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/default_avatar.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bg_common_toast.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bg_common_toast.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_01_d.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_01_d.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/contacts_download_bg.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/contacts_download_bg.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/choose_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/choose_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_push_button_on_03.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_push_button_on_03.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_video.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_video.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/determine.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/determine.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/system_button_normal.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/system_button_normal.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/contacts_download_bg_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/contacts_download_bg_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/righttype_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/righttype_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_left_03.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_left_03.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/hook_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/hook_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/back_normal.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/back_normal.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_bar.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_bar.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/video_to_speech_icon_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/video_to_speech_icon_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/accessory_right.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/accessory_right.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/im_icon_call.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/im_icon_call.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/mute_icon.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/mute_icon.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/lefttype_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/lefttype_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_rcd_btn_pressed.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_rcd_btn_pressed.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_right_03.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_right_03.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_left_02.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_left_02.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_bar_logo.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_bar_logo.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_rcd_btn_talk_nor.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_rcd_btn_talk_nor.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_common_check.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_common_check.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/call_head_portrait.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/call_head_portrait.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/chating_left_01_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/chating_left_01_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_01.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_01.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/bomb_box_bg_01_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/bomb_box_bg_01_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/title_bar_button_on.9.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/title_bar_button_on.9.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/voice_rcd_hint.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/voice_rcd_hint.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/mute_icon_on.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/mute_icon_on.png"
+    },
+    {
+        "merged": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/group_head.png",
+        "source": "/home/yaoguoju/Projects/HeartTouch/eCKitSdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/group_head.png"
+    }
+]

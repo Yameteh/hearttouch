@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.binary.heart.hearttouch" >
+    <uses-sdk android:minSdkVersion="15"
+        android:targetSdkVersion="22"></uses-sdk>
+
+    // SDK 权限申明, 第三方 APP 接入时，请将 com.yuntongxun.ecdemo 替换为自己的包名
+    // 和下面的 uses-permission 一起加入到你的 AndroidManifest 文件中。
+    <permission android:name="com.binary.heart.hearttouch.permission.RECEIVE_MSG"
+        android:protectionLevel="signature"/>
+    <permission android:name="com.binary.heart.hearttouch.permission.INCOMING_CALL"
+        android:protectionLevel="signature"/>
+    // 接收 SDK 消息广播权限， 第三方 APP 接入时，请将 com.yuntongxun.ecdemo 替换为自己的包名
+    <uses-permission android:name="com.binary.heart.hearttouch.permission.RECEIVE_MSG" />
+    // 如果没有VOIP功能可以忽略
+    <uses-permission android:name="com.binary.heart.hearttouch.permission.INCOMING_CALL" />
+    // 以上为v5.1.9r 版本增加
+
+    // 允许程序打开网络sockets
+    <uses-permission android:name="android.permission.INTERNET" />
+    // 允许程序访问有关的网络信息
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    // 允许程序访问Wi-Fi网络状态信息
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    // 允许应用写（非读）用户的外部存储器
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    // 允许读取电话的状态
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    // 允许一个程序获取信息有关当前或最近运行的任务，一个缩略的任务状态，是否活动等等
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    // 允许程序录制音频
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    // 允许应用程序修改全局声音设置的权限
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    // 允许使用PowerManager的WakeLocks保持进程在休眠时从屏幕消失
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    // 允许请求访问使用照相设备(如果使用视频通话则必选配置)
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- 允许程序禁用键盘锁(非必选,由应用选择是否需要) -->
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+
+
+    <!--用于进行网络定位-->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"></uses-permission>
+    <!--用于访问GPS定位-->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"></uses-permission>
+    <!--这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位-->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"></uses-permission>
+
+
+
+
+    <application
+        android:name=".application.HttApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/HeartAppBaseTheme" >
+
+        <meta-data android:name="com.amap.api.v2.apikey" android:value="d5d4293dc69f8b385187eb75b62e51bc">
+        </meta-data>
+
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <!--<activity android:name=".test.TestActivity">-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.MAIN"></action>-->
+                <!--<category android:name="android.intent.category.DEFAULT"></category>-->
+                <!--<category android:name="android.intent.category.LAUNCHER"></category>-->
+            <!--</intent-filter>-->
+        <!--</activity>-->
+        <activity android:name=".activity.WelcomeActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.DEFAULT"></category>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait"
+            >
+
+        </activity>
+
+        <activity android:name=".activity.RegisterActivity"
+            android:screenOrientation="portrait"></activity>
+
+        <activity android:name=".activity.MyInfoActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".activity.CaiQuanActivity"
+            android:screenOrientation="portrait"></activity>
+
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.ECChattingActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.ECConversationListActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.ECImagePreviewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/CCPTheme.Holo.Transparent" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.ECImageGalleryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@style/CCPTheme.Holo.Transparent"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.ECImageGralleryPagerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.ECFileExplorerActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.ECGroupNoticeActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.group.ECGroupListActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.group.CreateGroupActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.group.SearchGroupActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+        <activity
+            android:name="com.yuntongxun.kitsdk.ui.group.BaseSearch"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden" />
+
+        <activity android:name="com.yuntongxun.kitsdk.ui.voip.VoIPCallActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"></activity>
+
+        <activity android:name="com.yuntongxun.kitsdk.ui.voip.VideoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"></activity>
+
+        <activity android:name="com.yuntongxun.kitsdk.ui.voip.VideoCallInActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden"></activity>
+
+
+        <service android:name="com.amap.api.location.APSService"></service>
+
+        <service
+            android:name="com.yuntongxun.ecsdk.ECClientService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver android:name=".im.HeartMessageRecevier"
+            android:exported="false">
+
+            <intent-filter>
+                <action android:name="com.binary.hearttouch.heartmessage"></action>
+            </intent-filter>
+        </receiver>
+
+        // SDK网络改变广播
+        <receiver
+            android:name="com.yuntongxun.ecsdk.booter.CCPReceivers$ConnectionReceiver"
+            android:process=":push">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+        // SDK广播通知配置（开机广播）
+        // 可选广播、如果应用想做开机重启，可以实现该广播通知即可
+        <receiver
+            android:name="com.yuntongxun.ecsdk.booter.CCPReceivers$BootReceiver"
+            android:process=":push">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+        // 配置SDK消息通知广播 ,SDK通知会分三种提醒方式
+        // 1、直接通过设置的回调接口（OnChatReceiveListener）Push给应用
+        // 2、如果应用没有设置回调接口则采用（BroadcastReceiver）广播通知（v5.1.8版本）
+        //    此时如果应用处于未运行状态则会直接唤醒应用处理
+        // 3、如果应用未处于运行状态并且不想被唤醒应用运行则采用状态栏通知处理（SDK直接提醒，不会通知应用）,比如调用
+        // ECDevice#logout(ECDevice.NotifyMode, ECDevice.OnLogoutListener)退出接口传入后台接收消息才会有提醒
+
+        // 注意：以上在a和b的场景下，SDK都会将消息直接给应用处理，只有在c的情况SDK才会直接处理消息提醒，
+        //    所以应用需要处理a和b两种情况
+        // 声明自定义通知的广播接收器，第三方 APP 集成时，action 中的 com.yuntongxun.ecdemo 请替换为自己的包名
+        <!-- 需要权限声明  -->
+        // 如果没有VOIP功能可以忽略
+        <!-- 需要权限声明  -->
+        <receiver
+            android:name="com.yuntongxun.kitsdk.service.YuntxNotifyReceiver"
+            android:exported="false">
+            <intent-filter>
+                // 接收push消息
+                // action匹配规则{packageName + ".action" + "功能"}
+                <action android:name="com.binary.heart.hearttouch.action.VOIP_CALL" />
+                <action android:name="com.binary.heart.hearttouch.action.MESSAGE" />
+                <action android:name="com.binary.heart.hearttouch.NOTIFICATION_CLICK" />
+                <action android:name="com.binary.heart.hearttouch.PERSON_VERSION" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+
+</manifest>

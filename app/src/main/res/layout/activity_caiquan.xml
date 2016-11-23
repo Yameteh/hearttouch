@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/ll_actionbar"></include>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/ll_opponent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_dp_48"
+            android:layout_marginLeft="@dimen/dimem_dp_28"
+            android:layout_alignParentLeft="true"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imgv_opponent_head"
+                android:layout_width="@dimen/dimen_dp_88"
+                android:layout_height="@dimen/dimen_dp_88"
+                android:src="@drawable/msg_default_headface"
+                />
+
+            <ImageView
+                android:id="@+id/imgv_opponent_result"
+                android:layout_width="@dimen/dimen_dp_60"
+                android:layout_height="@dimen/dimen_dp_60"
+                android:layout_marginLeft="@dimen/dimen_dp_30"
+                android:src="@drawable/ic_bu"/>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/ll_me"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/dimem_dp_28"
+            android:layout_marginTop="@dimen/dimen_dp_48"
+            android:layout_below="@+id/ll_opponent"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+
+            <ImageView
+                android:id="@+id/imgv_me_result"
+                android:layout_width="@dimen/dimen_dp_60"
+                android:layout_height="@dimen/dimen_dp_60"
+                android:layout_marginRight="@dimen/dimen_dp_30"
+                android:src="@drawable/ic_chuitou"/>
+
+            <ImageView
+                android:id="@+id/imgv_me_head"
+                android:layout_width="@dimen/dimen_dp_88"
+                android:layout_height="@dimen/dimen_dp_88"
+                android:src="@drawable/msg_default_headface"
+                />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imgv_countdown"
+            android:layout_width="@dimen/dimen_dp_60"
+            android:layout_height="@dimen/dimen_dp_60"
+            android:layout_centerInParent="true"
+            />
+
+        
+        <LinearLayout
+            android:id="@+id/ll_result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/imgv_result"
+                android:layout_width="@dimen/dimen_dp_88"
+                android:layout_height="@dimen/dimen_dp_88"
+                android:src="@drawable/ic_youwin"
+                />
+
+            <TextView
+                android:id="@+id/tv_result"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="You Win"/>
+        </LinearLayout>
+
+
+        <ViewFlipper
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/dimen_dp_16"
+            android:layout_centerHorizontal="true"
+            android:inAnimation="@anim/anim_flipper_in"
+            android:outAnimation="@anim/anim_flipper_out"
+            android:id="@+id/vf_select">
+
+
+            <ImageView
+                android:id="@+id/imgv_jiandao"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_jiandao"/>
+
+            <ImageView
+                android:id="@+id/imgv_chuitou"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_chuitou"/>
+
+            <ImageView
+                android:id="@+id/imgv_bu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_bu"/>
+
+        </ViewFlipper>
+
+    </RelativeLayout>
+
+</LinearLayout>
