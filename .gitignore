@@ -36,8 +36,8 @@ proguard/
 # Android Studio captures folder
 captures/
 
-smartLib/build/
-eCKitSdk/build/
+smartLib/build/*
+eCKitSdk/build/*
 
 # Intellij
 *.iml

@@ -1,2 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/jniLibs"><file name="armeabi/libserphone.so" path="/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/jniLibs/armeabi/libserphone.so"/><file name="arm64-v8a/libserphone.so" path="/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/main/jniLibs/arm64-v8a/libserphone.so"/></source></dataSet><dataSet config="release"><source path="/home/yaoguoju/Projects/HeartTouch/eCKitSdk/src/release/jniLibs"/></dataSet></merger>
