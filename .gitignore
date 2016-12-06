@@ -13,6 +13,8 @@ bin/
 gen/
 out/
 
+!.gitignore
+
 # Gradle files
 .gradle/
 build/
@@ -33,6 +35,9 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+smartLib/build/
+eCKitSdk/build/
 
 # Intellij
 *.iml
