@@ -43,7 +43,7 @@ public class ImHelper {
 
                     @Override
                     public void onDisconnect(ECError error) {
-                        SmartLog.d(Configure.TAG,"im disconnect");
+                        SmartLog.d(Configure.TAG,"im disconnect "+error);
                     }
 
                     @Override

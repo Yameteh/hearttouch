@@ -16,11 +16,13 @@ import android.graphics.RectF;
 import android.graphics.Shader;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
+import android.net.Uri;
 
 import com.binary.smartlib.log.SmartLog;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
@@ -221,5 +223,21 @@ public class SmartGraphic {
     public static int randomColor() {
         Random mRandom = new Random();
         return Color.rgb(mRandom.nextInt(255), mRandom.nextInt(255), mRandom.nextInt(255));
+    }
+
+    /**
+     * decode url to bitmap
+     * @param uri
+     * @return
+     */
+    public static Bitmap decodeUriAsBitmap(Context context,Uri uri){
+        Bitmap bitmap = null;
+        try {
+            bitmap = BitmapFactory.decodeStream(context.getContentResolver().openInputStream(uri));
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+            return null;
+        }
+        return bitmap;
     }
 }

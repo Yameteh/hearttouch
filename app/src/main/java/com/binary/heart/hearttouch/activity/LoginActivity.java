@@ -29,6 +29,7 @@ import com.binary.heart.hearttouch.widget.LoadingView;
 import com.binary.smartlib.container.SmartList;
 import com.binary.smartlib.container.SmartMap;
 import com.binary.smartlib.io.SmartPref;
+import com.binary.smartlib.log.SmartLog;
 import com.binary.smartlib.net.SmartHttp;
 import com.binary.smartlib.net.thirdlib.ApacheHttp;
 import com.binary.smartlib.ui.activity.SmartActivity;
@@ -188,7 +189,7 @@ public class LoginActivity extends SmartActivity{
         ApacheHttp.post(WebUrls.LOGIN, body.getBytes(), null, null, new ApacheHttp.Callback() {
             @Override
             public void onSuccess(byte[] response, int code) {
-
+                SmartLog.d(Configure.TAG,"login rsp "+new String(response));
                 LoginRsp rsp = JSON.parseObject(new String(response),LoginRsp.class);
                 switch(rsp.getCode()) {
                     case LoginRsp.CODE_LOGINGOK:

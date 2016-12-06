@@ -77,6 +77,7 @@ public class ProfileFragment extends SmartFragment{
             return;
         }
         try {
+            SmartLog.d(Configure.TAG,"upload head pic");
             ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(context)).build();
 
             ApacheHttpMultiBody body = new ApacheHttpMultiBody.Builder().addFilePart("headphoto",saveHead)

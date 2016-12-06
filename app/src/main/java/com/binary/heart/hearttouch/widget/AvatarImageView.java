@@ -39,6 +39,10 @@ import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.binary.heart.hearttouch.conf.Configure;
+import com.binary.smartlib.io.SmartGraphic;
+import com.binary.smartlib.log.SmartLog;
+
 import java.io.File;
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -353,6 +357,7 @@ public class AvatarImageView extends ImageView {
     }
 
     public void onActivityResult(int requestCode, int resultCode, Intent data) {
+        SmartLog.d(Configure.TAG,"onActivityResult "+requestCode+","+resultCode+",data "+data);
         switch (requestCode) {
             case AvatarImageView.REQUEST_IMAGE_BY_CAMERA:
                 if (Activity.RESULT_OK == resultCode) {
@@ -376,6 +381,14 @@ public class AvatarImageView extends ImageView {
                     this.setImageBitmap(photo);
 
                     if (afterCropListener != null) {
+                        afterCropListener.afterCrop(photo);
+                    }
+                }else if(data != null && data.getData() != null) {
+                    Uri imageuri = data.getData();
+                    Bitmap photo = SmartGraphic.decodeUriAsBitmap(mContext,imageuri);
+                    this.setImageBitmap(photo);
+
+                    if(afterCropListener != null) {
                         afterCropListener.afterCrop(photo);
                     }
                 }
