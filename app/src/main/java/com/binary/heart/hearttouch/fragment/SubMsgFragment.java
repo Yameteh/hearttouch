@@ -27,7 +27,6 @@ import com.binary.smartlib.io.SmartDb;
 import com.binary.smartlib.net.thirdlib.ApacheHttp;
 import com.binary.smartlib.net.thirdlib.ApacheHttpHeaders;
 import com.binary.smartlib.ui.fragment.SmartFragment;
-import com.yuntongxun.kitsdk.fragment.ConversationListFragment;
 
 import java.util.List;
 
@@ -127,12 +126,12 @@ public class SubMsgFragment extends SmartFragment{
             titleIM.setVisibility(View.GONE);
             return ;
         }
-        ConversationListFragment fragment = new ConversationListFragment();
-        Bundle bundle = new Bundle();
-        bundle.putString(ConversationListFragment.EMPTY_TARGET,AccountHelper.getBindAccount(context));
-        bundle.putString(ConversationListFragment.EMPTY_NICK,AccountHelper.getBindNick(context));
-        fragment.setArguments(bundle);
-        asignFragment(R.id.fl_msg_im, fragment);
+//        ConversationListFragment fragment = new ConversationListFragment();
+//        Bundle bundle = new Bundle();
+//        bundle.putString(ConversationListFragment.EMPTY_TARGET,AccountHelper.getBindAccount(context));
+//        bundle.putString(ConversationListFragment.EMPTY_NICK,AccountHelper.getBindNick(context));
+//        fragment.setArguments(bundle);
+//        asignFragment(R.id.fl_msg_im, fragment);
     }
 
     private void actionUnBind(final String to) {

@@ -2,6 +2,7 @@ package com.binary.heart.hearttouch.adapter;
 
 import android.content.Context;
 import android.graphics.Bitmap;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,7 +16,6 @@ import com.binary.heart.hearttouch.conf.WebUrls;
 import com.binary.heart.hearttouch.jsons.SearchRsp;
 import com.binary.smartlib.io.SmartGraphic;
 import com.binary.smartlib.net.SmartImageLoader;
-import com.yuntongxun.kitsdk.utils.TextUtil;
 
 import java.io.File;
 import java.util.HashMap;
@@ -76,7 +76,7 @@ public class SearchAdapter extends BaseAdapter{
         holder = (ViewHolder) convertView.getTag();
         if(searchs != null && position < searchs.size()) {
             SearchRsp search = searchs.get(position);
-            if(!TextUtil.isEmpty(search.getNick())) {
+            if(!TextUtils.isEmpty(search.getNick())) {
                 holder.nick.setText(search.getNick());
             }else {
                 holder.nick.setText(search.getAccount());

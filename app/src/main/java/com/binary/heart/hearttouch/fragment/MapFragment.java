@@ -3,6 +3,7 @@ package com.binary.heart.hearttouch.fragment;
 import android.content.Intent;
 import android.graphics.PixelFormat;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -29,7 +30,6 @@ import com.binary.smartlib.net.thirdlib.ApacheHttp;
 import com.binary.smartlib.net.thirdlib.ApacheHttpHeaders;
 import com.binary.smartlib.ui.fragment.SmartFragment;
 import com.binary.smartlib.utils.MathUtil;
-import com.yuntongxun.kitsdk.utils.TextUtil;
 
 /**
  * Created by yaoguoju on 16-4-18.
@@ -87,7 +87,7 @@ public class MapFragment extends SmartFragment{
             @Override
             public void onSuccess(byte[] response, int code) {
                 LocRsp rsp = JSON.parseObject(new String(response), LocRsp.class);
-                if (TextUtil.isEmpty(rsp.getLatitude()) || TextUtil.isEmpty(rsp.getLongitude())) {
+                if (TextUtils.isEmpty(rsp.getLatitude()) || TextUtils.isEmpty(rsp.getLongitude())) {
                     return;
                 }
                 double latitude = MathUtil.s2d(rsp.getLatitude());

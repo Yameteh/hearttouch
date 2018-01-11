@@ -15,7 +15,6 @@ import com.binary.smartlib.io.SmartFile;
 import com.binary.smartlib.log.SmartLog;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
-import com.yuntongxun.kitsdk.setting.ObjectStringIdentifier;
 
 import java.lang.reflect.Field;
 import java.util.List;

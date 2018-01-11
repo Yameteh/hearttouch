@@ -29,11 +29,7 @@ import com.binary.smartlib.handler.SmartHandler;
 import com.binary.smartlib.io.SmartPref;
 import com.binary.smartlib.log.SmartLog;
 import com.binary.smartlib.ui.activity.SmartActivity;
-import com.yuntongxun.ecsdk.ECError;
-import com.yuntongxun.ecsdk.ECMessage;
-import com.yuntongxun.ecsdk.ECMessageBody;
-import com.yuntongxun.ecsdk.im.ECTextMessageBody;
-import com.yuntongxun.kitsdk.ui.chatting.model.IMChattingHelper;
+
 
 import java.io.File;
 import java.util.List;
@@ -160,69 +156,69 @@ public class CaiQuanActivity extends SmartActivity{
         }
 
         if(isFromNotify) {
-            IMChattingHelper.sendECMessage(mMsgCreater.createMessage(MessageFactory.GAME_START,AccountHelper.getBindAccount(context),""));
+            //IMChattingHelper.sendECMessage(mMsgCreater.createMessage(MessageFactory.GAME_START,AccountHelper.getBindAccount(context),""));
             gameStarted = true;
             resetGame();
         }else {
-            IMChattingHelper.sendECMessage(mMsgCreater.createMessage(GameMessageCreater.GAME_INVITE, AccountHelper.getBindAccount(context),""));
+            //IMChattingHelper.sendECMessage(mMsgCreater.createMessage(GameMessageCreater.GAME_INVITE, AccountHelper.getBindAccount(context),""));
         }
 
-        IMChattingHelper.setOnMessageReportCallback(new IMChattingHelper.OnMessageReportCallback() {
-            @Override
-            public void onMessageReport(ECError error, ECMessage message) {
-
-            }
-
-            @Override
-            public void onPushMessage(String sessionId, List<ECMessage> msgs) {
-                SmartLog.d(TAG, "sessionId == " + sessionId + ",msg count " + msgs.size());
-                if (msgs != null) {
-                    ECMessage msg = msgs.get(0);
-
-                    String msgUserData = msg.getUserData();
-                    String[] m = msgUserData.split(":");
-                    int type = Integer.parseInt(m[1]);
-                    if (type == MessageFactory.GAME_START) {
-                        gameStarted = true;
-                        resetGame();
-                    } else if (type == MessageFactory.GAME_RESULT) {
-                        ECTextMessageBody body = (ECTextMessageBody) msg.getBody();
-                        Caiquan cai = JSON.parseObject(body.getMessage(), Caiquan.class);
-                        final int id = Integer.parseInt(cai.getContent());
-                        opponetSelect = id;
-                        SmartLog.d("YYY","oppentSelect" +opponetSelect);
-                        runOnUiThread(new Runnable() {
-                            @Override
-                            public void run() {
-                                switch (id) {
-                                    case R.id.imgv_chuitou:
-                                        SmartLog.d("YYY","chuitou "+R.id.imgv_chuitou);
-                                        opponentResult.setImageResource(R.drawable.ic_chuitou);
-                                        AddCount();
-                                        break;
-                                    case R.id.imgv_bu:
-                                        SmartLog.d("YYY","imgv_bu "+R.id.imgv_bu);
-                                        opponentResult.setImageResource(R.drawable.ic_bu);
-                                        AddCount();
-
-                                        break;
-                                    case R.id.imgv_jiandao:
-                                        SmartLog.d("YYY","imgv_jiandao "+R.id.imgv_jiandao);
-
-                                        AddCount();
-                                        opponentResult.setImageResource(R.drawable.ic_jiandao);
-                                        break;
-
-                                }
-                            }
-                        });
-
-
-                    }
-
-                }
-            }
-        });
+//        IMChattingHelper.setOnMessageReportCallback(new IMChattingHelper.OnMessageReportCallback() {
+//            @Override
+//            public void onMessageReport(ECError error, ECMessage message) {
+//
+//            }
+//
+//            @Override
+//            public void onPushMessage(String sessionId, List<ECMessage> msgs) {
+//                SmartLog.d(TAG, "sessionId == " + sessionId + ",msg count " + msgs.size());
+//                if (msgs != null) {
+//                    ECMessage msg = msgs.get(0);
+//
+//                    String msgUserData = msg.getUserData();
+//                    String[] m = msgUserData.split(":");
+//                    int type = Integer.parseInt(m[1]);
+//                    if (type == MessageFactory.GAME_START) {
+//                        gameStarted = true;
+//                        resetGame();
+//                    } else if (type == MessageFactory.GAME_RESULT) {
+//                        ECTextMessageBody body = (ECTextMessageBody) msg.getBody();
+//                        Caiquan cai = JSON.parseObject(body.getMessage(), Caiquan.class);
+//                        final int id = Integer.parseInt(cai.getContent());
+//                        opponetSelect = id;
+//                        SmartLog.d("YYY","oppentSelect" +opponetSelect);
+//                        runOnUiThread(new Runnable() {
+//                            @Override
+//                            public void run() {
+//                                switch (id) {
+//                                    case R.id.imgv_chuitou:
+//                                        SmartLog.d("YYY","chuitou "+R.id.imgv_chuitou);
+//                                        opponentResult.setImageResource(R.drawable.ic_chuitou);
+//                                        AddCount();
+//                                        break;
+//                                    case R.id.imgv_bu:
+//                                        SmartLog.d("YYY","imgv_bu "+R.id.imgv_bu);
+//                                        opponentResult.setImageResource(R.drawable.ic_bu);
+//                                        AddCount();
+//
+//                                        break;
+//                                    case R.id.imgv_jiandao:
+//                                        SmartLog.d("YYY","imgv_jiandao "+R.id.imgv_jiandao);
+//
+//                                        AddCount();
+//                                        opponentResult.setImageResource(R.drawable.ic_jiandao);
+//                                        break;
+//
+//                                }
+//                            }
+//                        });
+//
+//
+//                    }
+//
+//                }
+//            }
+//        });
     }
 
     private void resetGame() {
@@ -433,7 +429,7 @@ public class CaiQuanActivity extends SmartActivity{
         }
         meSelect = id;
         AddCount();
-        IMChattingHelper.sendECMessage(mMsgCreater.createMessage(MessageFactory.GAME_RESULT, AccountHelper.getBindAccount(context), String.valueOf(id)));
+        //IMChattingHelper.sendECMessage(mMsgCreater.createMessage(MessageFactory.GAME_RESULT, AccountHelper.getBindAccount(context), String.valueOf(id)));
         stopSelect();
        // mExplosionField.clear();
     }

@@ -35,7 +35,6 @@ import com.binary.smartlib.net.thirdlib.ApacheHttp;
 import com.binary.smartlib.ui.activity.SmartActivity;
 import com.binary.smartlib.ui.toast.SmartToast;
 import com.binary.smartlib.ui.widget.SmartCornerButton;
-import com.yuntongxun.kitsdk.utils.TextUtil;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -108,7 +107,7 @@ public class LoginActivity extends SmartActivity{
                 }
             }
         });
-        if(!TextUtil.isEmpty(AccountHelper.getAccount(context))) {
+        if(!TextUtils.isEmpty(AccountHelper.getAccount(context))) {
             editvAccount.setText(AccountHelper.getAccount(context));
         }
         editvPwd     = (EditText) findViewById(R.id.edit_login_pwd);

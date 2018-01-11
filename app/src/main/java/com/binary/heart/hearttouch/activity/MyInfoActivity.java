@@ -26,8 +26,6 @@ import com.binary.smartlib.net.thirdlib.ApacheHttp;
 import com.binary.smartlib.net.thirdlib.ApacheHttpHeaders;
 import com.binary.smartlib.ui.activity.SmartActivity;
 import com.binary.smartlib.ui.toast.SmartToast;
-import com.yuntongxun.kitsdk.ui.chatting.model.IMChattingHelper;
-import com.yuntongxun.kitsdk.utils.ToastUtil;
 
 /**
  * Created by yaoguoju on 16-4-16.

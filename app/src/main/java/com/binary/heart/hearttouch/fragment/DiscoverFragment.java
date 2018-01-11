@@ -2,6 +2,7 @@ package com.binary.heart.hearttouch.fragment;
 
 import android.content.Intent;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -28,8 +29,6 @@ import com.binary.smartlib.log.SmartLog;
 import com.binary.smartlib.net.thirdlib.ApacheHttp;
 import com.binary.smartlib.net.thirdlib.ApacheHttpHeaders;
 import com.binary.smartlib.ui.fragment.SmartFragment;
-import com.yuntongxun.kitsdk.ui.chatting.model.IMChattingHelper;
-import com.yuntongxun.kitsdk.utils.TextUtil;
 
 import org.w3c.dom.Text;
 
@@ -83,13 +82,13 @@ public class DiscoverFragment extends SmartFragment implements PtrHandler{
         InputDialog dialog = new InputDialog();
         Bundle bundle = new Bundle();
         String bind = bindnick;
-        if(TextUtil.isEmpty(bind)) {
+        if(TextUtils.isEmpty(bind)) {
             bind = bindaccount;
         }
         bundle.putString(InputDialog.TITLE,String.format(getString(R.string.title_bindreq),bind));
         bundle.putString(InputDialog.HINT,getString(R.string.hint_bindreq));
         String me = AccountHelper.getNick(context);
-        if(TextUtil.isEmpty(me)) {
+        if(TextUtils.isEmpty(me)) {
             me = AccountHelper.getAccount(context);
         }
         bundle.putString(InputDialog.INPUT,String.format(getString(R.string.hint_thisme),me));
@@ -97,7 +96,7 @@ public class DiscoverFragment extends SmartFragment implements PtrHandler{
         dialog.setOnInputListener(new InputDialog.OnInputListener() {
             @Override
             public void onConfirm(String input) {
-                IMChattingHelper.sendECMessage(mMessageCreater.createMessage(MessageFactory.BIND_REQ,bindaccount,input));
+                //IMChattingHelper.sendECMessage(mMessageCreater.createMessage(MessageFactory.BIND_REQ,bindaccount,input));
             }
 
             @Override

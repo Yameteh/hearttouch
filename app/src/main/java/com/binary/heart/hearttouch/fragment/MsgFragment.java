@@ -3,6 +3,7 @@ package com.binary.heart.hearttouch.fragment;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.text.TextUtils;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -46,9 +47,7 @@ import com.binary.smartlib.net.thirdlib.ApacheHttpHeaders;
 import com.binary.smartlib.net.thirdlib.ApacheHttpUrlParams;
 import com.binary.smartlib.ui.fragment.SmartFragment;
 import com.binary.smartlib.utils.MathUtil;
-import com.yuntongxun.kitsdk.ECDeviceKit;
-import com.yuntongxun.kitsdk.fragment.ConversationListFragment;
-import com.yuntongxun.kitsdk.utils.TextUtil;
+
 
 import java.io.File;
 import java.util.HashMap;
@@ -246,7 +245,7 @@ public class MsgFragment extends SmartFragment{
 
     private void refreshUI() {
         String displayName = AccountHelper.getBindAccount(context);
-        if(!TextUtil.isEmpty(bindProfile.getNick())) {
+        if(!TextUtils.isEmpty(bindProfile.getNick())) {
             displayName = bindProfile.getNick();
             AccountHelper.setBindNick(context,displayName);
         }

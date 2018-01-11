@@ -16,7 +16,6 @@ import com.binary.smartlib.log.SmartLog;
 import com.binary.smartlib.net.thirdlib.ApacheHttp;
 import com.binary.smartlib.net.thirdlib.ApacheHttpHeaders;
 import com.binary.smartlib.net.thirdlib.ApacheHttpUrlParams;
-import com.yuntongxun.kitsdk.utils.TextUtil;
 
 /**
  * Created by yaoguoju on 16-3-30.
@@ -26,7 +25,7 @@ public class AccountHelper {
     public static boolean isLogined(Context context) {
         String accout = getAccount(context);
         int userid = getUserId(context);
-        if(!TextUtil.isEmpty(accout) && userid != -1) {
+        if(!TextUtils.isEmpty(accout) && userid != -1) {
             return true;
         }else {
             return false;

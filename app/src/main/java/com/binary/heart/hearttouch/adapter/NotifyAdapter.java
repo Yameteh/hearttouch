@@ -10,8 +10,6 @@ import android.widget.TextView;
 import com.binary.heart.hearttouch.R;
 import com.binary.heart.hearttouch.im.notify.HeartNotify;
 import com.binary.heart.hearttouch.im.notify.NotifyManager;
-import com.yuntongxun.kitsdk.ui.chatting.view.CCPTextView;
-import com.yuntongxun.kitsdk.utils.DateUtil;
 
 import java.util.List;
 
@@ -51,34 +49,34 @@ public class NotifyAdapter extends BaseAdapter{
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
         ViewHolder holder = null;
-        if(convertView == null) {
-            convertView = View.inflate(context, R.layout.item_notify,null);
-            holder = new ViewHolder();
-            holder.icon = (ImageView) convertView.findViewById(R.id.avatar_iv);
-            holder.nick = (TextView) convertView.findViewById(R.id.nickname_tv);
-            holder.content = (CCPTextView)convertView.findViewById(R.id.last_msg_tv);
-            holder.time = (TextView)convertView.findViewById(R.id.update_time_tv);
-            convertView.setTag(holder);
-        }
-        holder = (ViewHolder) convertView.getTag();
-
-        HeartNotify notify = (HeartNotify)notifys.get(position);
-        if(notify.getType() == NotifyManager.BINDREQ) {
-            holder.icon.setImageResource(R.drawable.ic_bind_req);
-        }
-
-        holder.nick.setText(notify.getSender());
-        holder.content.setText(notify.getContent());
-        String time = DateUtil.getDateString(Long.valueOf(notify.getTime()),
-                DateUtil.SHOW_TYPE_CALL_LOG).trim();
-        holder.time.setText(time);
+//        if(convertView == null) {
+//            convertView = View.inflate(context, R.layout.item_notify,null);
+//            holder = new ViewHolder();
+//            holder.icon = (ImageView) convertView.findViewById(R.id.avatar_iv);
+//            holder.nick = (TextView) convertView.findViewById(R.id.nickname_tv);
+//            //holder.content = (CCPTextView)convertView.findViewById(R.id.last_msg_tv);
+//            holder.time = (TextView)convertView.findViewById(R.id.update_time_tv);
+//            convertView.setTag(holder);
+//        }
+//        holder = (ViewHolder) convertView.getTag();
+//
+//        HeartNotify notify = (HeartNotify)notifys.get(position);
+//        if(notify.getType() == NotifyManager.BINDREQ) {
+//            holder.icon.setImageResource(R.drawable.ic_bind_req);
+//        }
+//
+//        holder.nick.setText(notify.getSender());
+//        holder.content.setText(notify.getContent());
+//        String time = DateUtil.getDateString(Long.valueOf(notify.getTime()),
+//                DateUtil.SHOW_TYPE_CALL_LOG).trim();
+//        holder.time.setText(time);
         return convertView;
     }
 
     public class ViewHolder {
         public ImageView icon;
         public TextView nick;
-        public CCPTextView content;
+        //public CCPTextView content;
         public TextView time;
     }
 

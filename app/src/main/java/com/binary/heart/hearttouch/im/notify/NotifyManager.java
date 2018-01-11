@@ -8,8 +8,6 @@ import android.content.Intent;
 
 import com.binary.heart.hearttouch.R;
 import com.binary.heart.hearttouch.activity.CaiQuanActivity;
-import com.yuntongxun.kitsdk.core.ECKitConstant;
-import com.yuntongxun.kitsdk.ui.ECChattingActivity;
 
 /**
  * Created by yaoguoju on 16-4-20.

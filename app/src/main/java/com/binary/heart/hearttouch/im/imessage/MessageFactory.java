@@ -1,6 +1,5 @@
 package com.binary.heart.hearttouch.im.imessage;
 
-import com.yuntongxun.ecsdk.ECMessage;
 
 /**
  * Created by yaoguoju on 16-4-20.
@@ -16,5 +15,5 @@ public abstract class MessageFactory {
 
     public static final String USER_DATA = "heartdata:";
 
-    public abstract ECMessage createMessage(int msg,String to,String content);
+    //public abstract ECMessage createMessage(int msg,String to,String content);
 }
