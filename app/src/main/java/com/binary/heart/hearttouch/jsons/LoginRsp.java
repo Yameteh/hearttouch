@@ -8,6 +8,15 @@ public class LoginRsp {
     public final static int CODE_LOGINGOK   = 0;
     private int code;
     private int userid;
+    private String token;
+
+    public String getToken() {
+        return token;
+    }
+
+    public void setToken(String token) {
+        this.token = token;
+    }
 
     public int getCode() {
         return code;

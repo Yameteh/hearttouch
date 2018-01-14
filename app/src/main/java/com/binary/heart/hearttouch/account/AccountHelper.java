@@ -49,6 +49,10 @@ public class AccountHelper {
         return (int) SmartPref.get(context,PrefKeys.USERID,-1);
     }
 
+    public static String getToken(Context context) {
+        return (String) SmartPref.get(context,PrefKeys.TOKEN,"");
+    }
+
 
     public static int getBindUserId(Context context) {
         return (int) SmartPref.get(context,PrefKeys.BINDUSERID,-1);

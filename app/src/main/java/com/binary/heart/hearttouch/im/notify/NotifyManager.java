@@ -26,10 +26,10 @@ public class NotifyManager {
         intent.putExtra(CaiQuanActivity.FROM_NOTIFY,true);
         intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
         PendingIntent contentIntent = PendingIntent.getActivity(context,0,intent,PendingIntent.FLAG_UPDATE_CURRENT);
-        notification.setLatestEventInfo(context,
-                "猜拳邀请",
-                null,
-                contentIntent);
+//        notification.setLatestEventInfo(context,
+//                "猜拳邀请",
+//                null,
+//                contentIntent);
 
         nm.notify(CAIQUAN,notification);
     }

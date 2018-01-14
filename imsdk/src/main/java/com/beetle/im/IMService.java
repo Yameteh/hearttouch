@@ -609,6 +609,7 @@ public class IMService {
             @Override
             protected void onPostExecute(String result) {
                 if (result.length() > 0) {
+                    Log.d(TAG,"result hostIP "+result);
                     IMService.this.hostIP = result;
                     IMService.this.timestamp = now();
                 }

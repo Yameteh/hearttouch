@@ -7,7 +7,7 @@ public class WebUrls {
     //public static final String SERVER_HOST = "http://120.26.112.242:8080";
     //public static final String SERVER_HOST = "http://172.25.1.88:8080";
     //public static final String SERVER_HOST = "http://192.168.0.108:8080";
-    public static final String SERVER_HOST = "http://172.25.1.81:8000/polls";
+    public static final String SERVER_HOST = "http://172.25.1.135:8000/polls";
     public static final String REGISTER = SERVER_HOST+"/backend/account/register";
     public static final String LOGIN    = SERVER_HOST+"/backend/account/login";
     public static final String PROFILE  = SERVER_HOST +"/backend/account/profile";

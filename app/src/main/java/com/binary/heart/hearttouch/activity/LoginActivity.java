@@ -176,6 +176,7 @@ public class LoginActivity extends SmartActivity{
             btnLoginOk.setEnabled(false);
         }
     }
+
     private void actionLogin() {
         final LoadingView loadingView = (LoadingView) findViewById(R.id.v_loading);
         loadingView.setMsg(R.string.login_loading);
@@ -194,6 +195,8 @@ public class LoginActivity extends SmartActivity{
                     case LoginRsp.CODE_LOGINGOK:
                         SmartPref.put(context,PrefKeys.ACCOUNT,account);
                         SmartPref.put(context, PrefKeys.USERID,rsp.getUserid());
+                        SmartPref.put(context,PrefKeys.TOKEN,rsp.getToken());
+                        ImHelper.login(context,AccountHelper.getUserId(context),AccountHelper.getToken(context));
                         toActivity(context, MainActivity.class,null);
                         finish();
                         break;

@@ -18,6 +18,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
+import com.binary.heart.hearttouch.account.AccountHelper;
 import com.binary.heart.hearttouch.activity.LoginActivity;
 import com.binary.heart.hearttouch.activity.WelcomeActivity;
 import com.binary.heart.hearttouch.application.HttApplication;
@@ -109,12 +110,7 @@ public class MainActivity extends SmartActivity{
 
     @Override
     protected void initData(Bundle savedInstanceState) {
-        SmartHandler.get(this).post(new Runnable() {
-            @Override
-            public void run() {
-                ImHelper.initIm(context);
-            }
-        });
+        ImHelper.login(context, AccountHelper.getUserId(context),AccountHelper.getToken(context));
     }
 
     @Override

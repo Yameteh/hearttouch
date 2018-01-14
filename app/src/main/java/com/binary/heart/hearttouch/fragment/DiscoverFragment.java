@@ -13,6 +13,8 @@ import android.widget.TextView;
 
 import com.alibaba.fastjson.JSON;
 
+import com.beetle.bauhinia.PeerMessageActivity;
+import com.beetle.im.IMService;
 import com.binary.heart.hearttouch.R;
 import com.binary.heart.hearttouch.account.AccountHelper;
 
@@ -69,13 +71,25 @@ public class DiscoverFragment extends SmartFragment implements PtrHandler{
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 SearchRsp rsp = searchResult.get(position);
-                showBindReqDialog(rsp.getAccount(),rsp.getNick());
+
+                enterPeerMessage(rsp.getUserid());
+                //showBindReqDialog(rsp.getAccount(),rsp.getNick());
                 //SmartPref.put(getActivity(), PrefKeys.BINDACCOUNT, rsp.getAccount());
                 //SmartPref.put(getActivity(), PrefKeys.BINDUSERID, rsp.getUserid());
                 //mAdapter.notifyDataSetChanged();
             }
         });
         return v;
+    }
+
+    private void enterPeerMessage(int sendId) {
+        Intent intent = new Intent(context, PeerMessageActivity.class);
+        intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        intent.putExtra("peer_uid", Long.valueOf(sendId));
+        intent.putExtra("peer_name", "测试");
+        intent.putExtra("current_uid", Long.valueOf(AccountHelper.getUserId(context)));
+        startActivity(intent);
+
     }
 
     private void showBindReqDialog(final String bindaccount,String bindnick) {

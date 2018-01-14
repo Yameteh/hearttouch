@@ -7,6 +7,7 @@ public class PrefKeys {
     public static final String ACCOUNT = "account";
     public static final String USERID  = "userid";
     public static final String PASSWORLD = "passworld";
+    public static final String TOKEN = "token";
 
     public static final String BINDACCOUNT = "bindaccount";
     public static final String BINDUSERID = "binduserid";

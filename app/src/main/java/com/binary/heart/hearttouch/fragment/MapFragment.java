@@ -9,14 +9,14 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.alibaba.fastjson.JSON;
-import com.amap.api.maps.AMap;
-import com.amap.api.maps.CameraUpdateFactory;
-import com.amap.api.maps.MapView;
-import com.amap.api.maps.model.BitmapDescriptor;
-import com.amap.api.maps.model.BitmapDescriptorFactory;
-import com.amap.api.maps.model.CameraPosition;
-import com.amap.api.maps.model.LatLng;
-import com.amap.api.maps.model.MarkerOptions;
+//import com.amap.api.maps.AMap;
+//import com.amap.api.maps.CameraUpdateFactory;
+//import com.amap.api.maps.MapView;
+//import com.amap.api.maps.model.BitmapDescriptor;
+//import com.amap.api.maps.model.BitmapDescriptorFactory;
+//import com.amap.api.maps.model.CameraPosition;
+//import com.amap.api.maps.model.LatLng;
+//import com.amap.api.maps.model.MarkerOptions;
 import com.binary.heart.hearttouch.R;
 import com.binary.heart.hearttouch.account.AccountHelper;
 import com.binary.heart.hearttouch.conf.Configure;
@@ -41,8 +41,8 @@ public class MapFragment extends SmartFragment{
 
     public final static int TYPE_AT = 1;
     public final static int TYPE_TRACE = 2;
-    private AMap aMap;
-    private MapView mapView;
+//    private AMap aMap;
+//    private MapView mapView;
 
     private int userid ;
 
@@ -50,10 +50,10 @@ public class MapFragment extends SmartFragment{
     @Override
     protected View initView(LayoutInflater inflater, ViewGroup container, Bundle saveInstanceState) {
         View v = inflater.inflate(R.layout.fragment_map, null);
-        mapView = (MapView) v.findViewById(R.id.mapv_msg);
-        mapView.onCreate(saveInstanceState);
-        aMap = mapView.getMap();
-        aMap.setMapType(AMap.MAP_TYPE_NORMAL);
+//        mapView = (MapView) v.findViewById(R.id.mapv_msg);
+//        mapView.onCreate(saveInstanceState);
+//        aMap = mapView.getMap();
+//        aMap.setMapType(AMap.MAP_TYPE_NORMAL);
         return v;
     }
 
@@ -109,31 +109,31 @@ public class MapFragment extends SmartFragment{
     }
 
     private void markerToucher(double latitude,double longitude) {
-        MarkerOptions toucher = new MarkerOptions();
-        BitmapDescriptor marker = BitmapDescriptorFactory.fromResource(R.drawable.marker);
-        toucher.icon(marker);
-        LatLng p = new LatLng(latitude,longitude);
-        SmartLog.d(Configure.TAG, "latitude = " + p.latitude + ",longitude = " + p.longitude);
-        aMap.moveCamera(CameraUpdateFactory.newCameraPosition(CameraPosition.fromLatLngZoom(p, 15)));
-        toucher.position(p);
-        aMap.addMarker(toucher);
+//        MarkerOptions toucher = new MarkerOptions();
+//        BitmapDescriptor marker = BitmapDescriptorFactory.fromResource(R.drawable.marker);
+//        toucher.icon(marker);
+//        LatLng p = new LatLng(latitude,longitude);
+//        SmartLog.d(Configure.TAG, "latitude = " + p.latitude + ",longitude = " + p.longitude);
+//        aMap.moveCamera(CameraUpdateFactory.newCameraPosition(CameraPosition.fromLatLngZoom(p, 15)));
+//        toucher.position(p);
+//        aMap.addMarker(toucher);
     }
 
     @Override
     public void onResume() {
         super.onResume();
-        mapView.onResume();
+        //mapView.onResume();
     }
 
     @Override
     public void onPause() {
         super.onPause();
-        mapView.onPause();
+       // mapView.onPause();
     }
 
     @Override
     public void onDestroyView() {
         super.onDestroyView();
-        mapView.onDestroy();
+        //mapView.onDestroy();
     }
 }
