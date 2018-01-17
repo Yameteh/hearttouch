@@ -8,6 +8,7 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.beetle.bauhinia.db.IMessage;
+import com.beetle.bauhinia.tools.PicassoHelper;
 import com.beetle.imkit.R;
 import com.squareup.picasso.Picasso;
 
@@ -35,11 +36,10 @@ public class MessageImageView extends MessageRowView {
         super.setMessage(msg);
 
         ImageView imageView = (ImageView)findViewById(R.id.image);
-        Picasso.with(context)
-                .load(((IMessage.Image) msg.content).url + "@256w_256h_0c")
+        PicassoHelper.get(context)
+                .load(((IMessage.Image) msg.content).url)
                 .placeholder(R.drawable.image_download_fail)
                 .into(imageView);
-
         boolean uploading = msg.getUploading();
         if (uploading) {
             if (maskView != null) {

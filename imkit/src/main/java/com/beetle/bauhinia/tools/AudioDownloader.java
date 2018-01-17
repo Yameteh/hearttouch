@@ -1,7 +1,10 @@
 package com.beetle.bauhinia.tools;
 import android.os.AsyncTask;
 
+import com.beetle.bauhinia.api.IMHttpAPI;
 import com.beetle.bauhinia.db.IMessage;
+import com.beetle.im.IMService;
+
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
@@ -64,7 +67,7 @@ public class AudioDownloader {
                     IMessage.Audio audio = (IMessage.Audio) imsg.content;
                     String url = audio.url;
                     OkHttpClient client = new OkHttpClient();
-                    Request request = new Request.Builder().url(url).build();
+                    Request request = new Request.Builder().url(url).header(IMHttpAPI.AUTH_KEY, IMHttpAPI.getAuthValue()).build();
                     Response response = client.newCall(request).execute();
                     if (response.isSuccessful()) {
                         InputStream inputStream = response.body().byteStream();

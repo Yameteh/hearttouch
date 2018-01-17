@@ -78,7 +78,7 @@ public class ProfileFragment extends SmartFragment{
         }
         try {
             SmartLog.d(Configure.TAG,"upload head pic");
-            ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(context)).build();
+            ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context)).build();
 
             ApacheHttpMultiBody body = new ApacheHttpMultiBody.Builder().addFilePart("headphoto",saveHead)
                     .addStringPart("user", String.valueOf(AccountHelper.getUserId(context))).build();
@@ -109,7 +109,7 @@ public class ProfileFragment extends SmartFragment{
               imgvHead.setImageURI(Uri.fromFile(saveHead));
           }else {
               HashMap<String, String> headers = new HashMap<String, String>();
-              headers.put("authHeader", AccountHelper.getAuthValue(context));
+              headers.put(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context));
               smartImageLoader.setImage(WebUrls.PHOTO + "?user=" + String.valueOf(AccountHelper.getUserId(context)), headers, imgvHead, new SmartImageLoader.ImageLoadCallback() {
 
                   @Override
@@ -149,7 +149,7 @@ public class ProfileFragment extends SmartFragment{
     }
 
     private void refreshUserInfo() {
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(context)).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context)).build();
         ApacheHttpUrlParams params = new ApacheHttpUrlParams.Builder().add("user",AccountHelper.getUserId(context)).build();
         ApacheHttp.get(WebUrls.PROFILE, headers, params, new ApacheHttp.Callback() {
             @Override

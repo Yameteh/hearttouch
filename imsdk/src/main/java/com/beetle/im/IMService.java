@@ -682,6 +682,7 @@ public class IMService {
             return;
         }
 
+
         if (now() - timestamp > 5*60) {
             refreshHost();
         }
@@ -705,7 +706,7 @@ public class IMService {
                 } else {
                     IMService.this.onConnected();
                 }
-            }
+               }
         });
 
         this.tcp.setReadCallback(new TCPReadCallback() {

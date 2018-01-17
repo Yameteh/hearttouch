@@ -197,7 +197,7 @@ public class DiscoverFragment extends SmartFragment implements PtrHandler{
 
     private void search() {
         int useid = AccountHelper.getUserId(context);
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(getActivity())).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(getActivity())).build();
         ApacheHttp.post(WebUrls.SEARCH, (""+useid).getBytes(), headers, null, new ApacheHttp.Callback() {
             @Override
             public void onSuccess(byte[] response, int code) {

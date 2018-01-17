@@ -135,7 +135,7 @@ public class SubMsgFragment extends SmartFragment{
     }
 
     private void actionUnBind(final String to) {
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(getActivity())).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(getActivity())).build();
         UnbindReq req = new UnbindReq();
         req.setUserid(AccountHelper.getUserId(getActivity()));
         req.setUnbindAccount(to);
@@ -162,7 +162,7 @@ public class SubMsgFragment extends SmartFragment{
     }
 
     private void actionBind(String to) {
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(getActivity())).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(getActivity())).build();
         BindReq req = new BindReq();
         req.setUserid(AccountHelper.getUserId(getActivity()));
         req.setBindAccount(to);

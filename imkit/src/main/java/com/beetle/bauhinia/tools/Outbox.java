@@ -1,5 +1,7 @@
 package com.beetle.bauhinia.tools;
 
+import android.util.Log;
+
 import com.beetle.bauhinia.api.IMHttpAPI;
 import com.beetle.bauhinia.api.types.Audio;
 import com.beetle.bauhinia.api.types.Image;
@@ -8,6 +10,7 @@ import com.beetle.bauhinia.db.IMessage;
 import java.io.File;
 import java.util.ArrayList;
 
+import retrofit.http.Multipart;
 import retrofit.mime.TypedFile;
 import rx.android.schedulers.AndroidSchedulers;
 import rx.functions.Action1;

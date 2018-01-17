@@ -99,7 +99,7 @@ public class MsgFragment extends SmartFragment{
     private ProfileRsp bindProfile;
 
     private void getBindProfile(){
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(context)).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context)).build();
         ApacheHttpUrlParams params = new ApacheHttpUrlParams.Builder().add("user",AccountHelper.getBindUserId(context)).build();
         ApacheHttp.get(WebUrls.PROFILE, headers, params, new ApacheHttp.Callback() {
             @Override
@@ -166,7 +166,7 @@ public class MsgFragment extends SmartFragment{
 
 
     private void actionUnBind(final String to) {
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(getActivity())).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(getActivity())).build();
         UnbindReq req = new UnbindReq();
         req.setUserid(AccountHelper.getUserId(getActivity()));
         req.setUnbindAccount(to);
@@ -251,7 +251,7 @@ public class MsgFragment extends SmartFragment{
             smartImageLoader = new SmartImageLoader.Builder(context).setMemRate(0.5f).setCacheEnable(true).build();
         }
         HashMap<String, String> headers = new HashMap<String, String>();
-        headers.put("authHeader", AccountHelper.getAuthValue(context));
+        headers.put(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context));
         smartImageLoader.fillImage(WebUrls.PHOTO + "?user=" + AccountHelper.getBindUserId(context), headers, head, new SmartImageLoader.ImageLoadCallback() {
 
             @Override

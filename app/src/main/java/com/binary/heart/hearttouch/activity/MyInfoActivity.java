@@ -74,7 +74,7 @@ public class MyInfoActivity extends SmartActivity{
         }
         req.setSignature(sign.getText().toString());
         String body = JSON.toJSONString(req);
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(context)).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context)).build();
         ApacheHttp.post(WebUrls.PROFILE, body.getBytes(), headers, null, new ApacheHttp.Callback() {
             @Override
             public void onSuccess(byte[] response, int code) {

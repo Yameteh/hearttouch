@@ -78,10 +78,10 @@ public class AccountHelper {
     }
 
     public static String getAuthValue(Context context) {
-        String value = getUserId(context) +":"+getAccount(context);
+        String value = getUserId(context) +":"+getToken(context);
         String v = Base64.encodeToString(value.getBytes(),Base64.DEFAULT);
         //会有一个换行，去掉
-        return v.substring(0,v.length()-1);
+        return "Basic "+v.substring(0,v.length()-1);
     }
 
 
@@ -128,7 +128,7 @@ public class AccountHelper {
     }
 
     public static void checkProfile(final Context context) {
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(context)).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context)).build();
         ApacheHttpUrlParams params = new ApacheHttpUrlParams.Builder().add("user",AccountHelper.getUserId(context)).build();
         ApacheHttp.get(WebUrls.PROFILE, headers, params, new ApacheHttp.Callback() {
             @Override

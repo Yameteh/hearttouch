@@ -63,7 +63,7 @@ public class AdDialogFragment extends DialogFragment implements View.OnClickList
 
     private void refreshAd() {
             HashMap<String, String> headers = new HashMap<String, String>();
-            headers.put("authHeader", AccountHelper.getAuthValue(getActivity()));
+            headers.put(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(getActivity()));
             smartImageLoader.fillImage(WebUrls.AD + "?user=" + String.valueOf(AccountHelper.getUserId(getActivity())), headers, mAd, new SmartImageLoader.ImageLoadCallback() {
 
                 @Override

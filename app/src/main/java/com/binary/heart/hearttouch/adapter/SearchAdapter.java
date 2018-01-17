@@ -100,7 +100,7 @@ public class SearchAdapter extends BaseAdapter{
             imageLoader = new SmartImageLoader.Builder(context).setMemRate(0.5f).setCacheEnable(true).build();
         }
         HashMap<String, String> headers = new HashMap<String, String>();
-        headers.put("authHeader", AccountHelper.getAuthValue(context));
+        headers.put(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context));
         imageLoader.fillImage(WebUrls.PHOTO + "?user=" + userid, headers, photo, new SmartImageLoader.ImageLoadCallback() {
 
             @Override

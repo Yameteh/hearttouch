@@ -13,6 +13,7 @@ import com.beetle.bauhinia.db.SyncKeyHandler;
 import com.beetle.im.IMService;
 import com.binary.heart.hearttouch.account.AccountHelper;
 import com.binary.heart.hearttouch.conf.Configure;
+import com.binary.heart.hearttouch.conf.WebUrls;
 import com.binary.smartlib.log.SmartLog;
 
 import java.util.HashMap;
@@ -32,6 +33,8 @@ public class ImHelper {
         PeerMessageHandler.getInstance().setUID(userId);
         GroupMessageHandler.getInstance().setUID(userId);
         IMHttpAPI.setToken(token);
+        IMHttpAPI.setAPIURL(WebUrls.IM_ROOT_URL);
+        IMHttpAPI.setUserId(uid);
         IMService.getInstance().setToken(token);
         IMService.getInstance().setAppID(1);
         SyncKeyHandler handler = new SyncKeyHandler(context, "sync_key");

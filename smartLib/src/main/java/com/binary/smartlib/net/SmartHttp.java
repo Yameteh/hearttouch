@@ -81,6 +81,7 @@ public class SmartHttp {
                         byte[] responseData = SmartStream.readInputStream(conn.getInputStream());
                         return responseData;
                     }
+                    conn.disconnect();
                 } catch (MalformedURLException e) {
                     e.printStackTrace();
                 } catch (IOException e) {
@@ -101,7 +102,6 @@ public class SmartHttp {
                         callback.onRequestError(responseCode);
                     }
                 }
-                conn.disconnect();
             }
 
         }.execute(url);

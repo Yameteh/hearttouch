@@ -82,7 +82,7 @@ public class MapFragment extends SmartFragment{
 
 
     private void getToucherLocation(int userid) {
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(context)).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(context)).build();
         ApacheHttp.get(WebUrls.LOCAIOTN + "/" + userid, headers, null, new ApacheHttp.Callback() {
             @Override
             public void onSuccess(byte[] response, int code) {

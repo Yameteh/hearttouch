@@ -18,6 +18,7 @@ import com.beetle.bauhinia.db.PeerMessageHandler;
 import com.beetle.bauhinia.tools.FileCache;
 import com.beetle.im.IMService;
 import com.binary.heart.hearttouch.conf.Configure;
+import com.binary.heart.hearttouch.conf.WebUrls;
 import com.binary.heart.hearttouch.im.ImHelper;
 import com.binary.heart.hearttouch.im.notify.HeartNotify;
 import com.binary.heart.hearttouch.im.notify.NotifyManager;
@@ -82,7 +83,7 @@ public class HttApplication extends Application {
     private void initIM() {
         IMService mIMService = IMService.getInstance();
         //app可以单独部署服务器，给予第三方应用更多的灵活性
-        mIMService.setHost("172.25.1.135");
+        mIMService.setHost(WebUrls.IM_ROOT_HOST);
 
         String androidID = Settings.Secure.getString(this.getContentResolver(),
                 Settings.Secure.ANDROID_ID);

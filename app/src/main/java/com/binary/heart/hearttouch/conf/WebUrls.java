@@ -7,6 +7,7 @@ public class WebUrls {
     //public static final String SERVER_HOST = "http://120.26.112.242:8080";
     //public static final String SERVER_HOST = "http://172.25.1.88:8080";
     //public static final String SERVER_HOST = "http://192.168.0.108:8080";
+    public static final String AUTH_KEY = "Authorization";
     public static final String SERVER_HOST = "http://172.25.1.135:8000/polls";
     public static final String REGISTER = SERVER_HOST+"/backend/account/register";
     public static final String LOGIN    = SERVER_HOST+"/backend/account/login";
@@ -20,5 +21,9 @@ public class WebUrls {
     public static final String BIND   = SERVER_HOST +"/backend/account/bind";
 
     public static final String UNBIND   = SERVER_HOST +"/backend/account/unbind";
+
+
+    public static final String IM_ROOT_URL = SERVER_HOST+"/backend/message";
+    public static final String IM_ROOT_HOST = "172.25.1.135";
 
 }

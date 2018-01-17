@@ -1,6 +1,9 @@
 package com.beetle.bauhinia.api;
 
 
+import android.content.Context;
+import android.util.Base64;
+
 import com.beetle.bauhinia.api.body.PostDeviceToken;
 import com.beetle.bauhinia.api.types.Audio;
 import com.beetle.bauhinia.api.types.Image;
@@ -39,7 +42,7 @@ public class IMHttpAPI {
                     @Override
                     public void intercept(RequestFacade request) {
                         if (IMHttpAPI.accessToken != null && !IMHttpAPI.accessToken.equals("")) {
-                            request.addHeader("Authorization", "Bearer " + IMHttpAPI.accessToken);
+                            request.addHeader(AUTH_KEY, getAuthValue());
                         }
                     }
                 })
@@ -65,6 +68,9 @@ public class IMHttpAPI {
 
     private static String apiURL = API_URL;
     private static String accessToken;
+    private static int userId;
+
+    public static String AUTH_KEY = "Authorization";
 
     public static void setAPIURL(String url) {
         apiURL = url;
@@ -74,6 +80,16 @@ public class IMHttpAPI {
         accessToken = token;
     }
 
+    public static void setUserId(int id) {
+        userId = id;
+    }
+
+    public static String getAuthValue() {
+        String value = userId +":"+accessToken;
+        String v = Base64.encodeToString(value.getBytes(),Base64.DEFAULT);
+        //会有一个换行，去掉
+        return "Basic "+v.substring(0,v.length()-1);
+    }
 
     public interface IMHttp {
         @POST("/device/bind")
@@ -82,10 +98,10 @@ public class IMHttpAPI {
         @POST("/device/unbind")
         Observable<Object> unBindDeviceToken(@Body PostDeviceToken token);
 
-        @POST("/images")
+        @POST("/images/")
         Observable<Image> postImages(@Header("Content-Type") String contentType, @Body TypedFile file);
 
-        @POST("/audios")
+        @POST("/audios/")
         Observable<Audio> postAudios(@Header("Content-Type") String contentType, @Body TypedFile file);
     };
 

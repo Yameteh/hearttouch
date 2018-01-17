@@ -71,7 +71,7 @@ public class RadarSearchFragment extends DialogFragment{
 
     private List<SearchRsp> searchResult;
     private void search() {
-        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add("authHeader", AccountHelper.getAuthValue(getActivity())).build();
+        ApacheHttpHeaders headers = new ApacheHttpHeaders.Builder().add(WebUrls.AUTH_KEY, AccountHelper.getAuthValue(getActivity())).build();
         ApacheHttp.post(WebUrls.SEARCH, "".getBytes(), headers, null, new ApacheHttp.Callback() {
             @Override
             public void onSuccess(byte[] response, int code) {
