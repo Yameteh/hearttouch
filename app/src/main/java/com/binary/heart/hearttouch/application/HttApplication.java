@@ -27,9 +27,6 @@ import com.binary.smartlib.handler.SmartHandler;
 import com.binary.smartlib.io.SmartDb;
 import com.binary.smartlib.io.SmartFile;
 import com.binary.smartlib.log.SmartLog;
-import com.nostra13.universalimageloader.core.ImageLoader;
-import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
-
 import java.lang.reflect.Field;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
@@ -45,7 +42,6 @@ public class HttApplication extends Application {
     public void onCreate() {
         super.onCreate();
         statusBarHeight = getStatusBarHeight(this);
-        ImageLoader.getInstance().init(ImageLoaderConfiguration.createDefault(this));
        // LocationHelper.get(this).start();
         SmartHandler.get(this).post(new Runnable() {
             @Override
