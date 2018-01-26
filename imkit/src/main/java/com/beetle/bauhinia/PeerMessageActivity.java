@@ -463,6 +463,14 @@ public class PeerMessageActivity extends MessageActivity implements
     }
 
     @Override
+    protected void startVideoCall() {
+        Intent intent = new Intent("com.binary.hearttouch.VIDEO_CALL");
+        intent.putExtra("sender",sender);
+        intent.putExtra("receiver",receiver);
+        sendBroadcast(intent);
+    }
+
+    @Override
     public void onAudioDownloadSuccess(IMessage msg) {
         Log.i(TAG, "audio download success");
     }

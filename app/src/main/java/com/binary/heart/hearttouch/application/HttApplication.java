@@ -2,7 +2,10 @@ package com.binary.heart.hearttouch.application;
 
 
 import android.app.Application;
+import android.content.BroadcastReceiver;
 import android.content.Context;
+import android.content.Intent;
+import android.content.IntentFilter;
 import android.os.AsyncTask;
 import android.provider.Settings;
 import android.text.TextUtils;
@@ -17,6 +20,8 @@ import com.beetle.bauhinia.db.PeerMessageDB;
 import com.beetle.bauhinia.db.PeerMessageHandler;
 import com.beetle.bauhinia.tools.FileCache;
 import com.beetle.im.IMService;
+import com.beetle.im.VOIPControl;
+import com.beetle.im.VOIPObserver;
 import com.binary.heart.hearttouch.conf.Configure;
 import com.binary.heart.hearttouch.conf.WebUrls;
 import com.binary.heart.hearttouch.im.ImHelper;
@@ -27,6 +32,11 @@ import com.binary.smartlib.handler.SmartHandler;
 import com.binary.smartlib.io.SmartDb;
 import com.binary.smartlib.io.SmartFile;
 import com.binary.smartlib.log.SmartLog;
+import com.binary.webrtc.AppRTCClient;
+import com.binary.webrtc.ConnectActivity;
+import com.binary.webrtc.ImRTCClient;
+
+import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
@@ -35,7 +45,7 @@ import java.util.List;
 /**
  * Created by yaoguoju on 16-3-30.
  */
-public class HttApplication extends Application {
+public class HttApplication extends Application implements ImRTCClient.ImInterface{
     private static int statusBarHeight = 0;
 
     @Override
@@ -104,11 +114,71 @@ public class HttApplication extends Application {
         mIMService.setPeerMessageHandler(PeerMessageHandler.getInstance());
         mIMService.setGroupMessageHandler(GroupMessageHandler.getInstance());
         mIMService.setCustomerMessageHandler(CustomerMessageHandler.getInstance());
+        mIMService.pushVOIPObserver(new VOIPObserver() {
+            @Override
+            public void onVOIPControl(VOIPControl ctl) {
+                AppRTCClient.ImRTCSession session = ImRTCClient.getImRTCClient().getImRTCSession();
+                if(session == null) {
+                    session = new AppRTCClient.ImRTCSession();
+                    session.receiver = ctl.receiver;
+                    session.sender = ctl.sender;
+                    session.direct = AppRTCClient.ImRTCSession.DIRECT_IN;
+                    session.state = AppRTCClient.ImRTCSession.STATE_RING;
+                    String msg = new String(ctl.content);
+                    Log.d(Configure.TAG,"direct_in receiver "+session.receiver+" sender "+session.sender +
+                                               " state "+session.state+" msg "+msg);
+                    ImRTCClient.getImRTCClient().addImRTCSession(session);
+                    ConnectActivity.connectToRoom(getApplicationContext(),"172.25.1.12",false,false,msg,0);
+                }else {
+                    if(session.direct == AppRTCClient.ImRTCSession.DIRECT_IN) {
+                        if(session.receiver == ctl.receiver && session.sender == ctl.sender) {
+                            String msg = new String(ctl.content);
+                            Log.d(Configure.TAG,"direct_in receiver "+session.receiver+" sender "+session.sender +
+                                    " state "+session.state+" msg "+msg);
+                            ImRTCClient.getImRTCClient().onImMessageReceived(msg);
+                        }else {
+                            Log.d(Configure.TAG,"direct_in receiver "+ctl.receiver+" sender "+ctl.sender);
+                        }
+                    }else if(session.direct == AppRTCClient.ImRTCSession.DIRECT_OUT) {
+                        if(session.sender == ctl.receiver && session.receiver == ctl.sender) {
+                            String msg = new String(ctl.content);
+                            Log.d(Configure.TAG,"direct_out receiver "+session.receiver+" sender "+session.sender +
+                                    " state "+session.state+" msg "+msg);
+                            ImRTCClient.getImRTCClient().onImMessageReceived(msg);
+                        }else {
+                            Log.d(Configure.TAG,"direct_out receiver "+ctl.receiver+" sender "+ctl.sender);
+                        }
+                    }
 
+                }
+            }
+        });
+        ImRTCClient.getImRTCClient().setImInterface(this);
 
+        IntentFilter filter = new IntentFilter();
+        filter.addAction("com.binary.hearttouch.VIDEO_CALL");
+        registerReceiver(videoCall,filter);
         //预先做dns查询
         //refreshHost();
     }
+
+    private BroadcastReceiver videoCall = new BroadcastReceiver() {
+        @Override
+        public void onReceive(Context context, Intent intent) {
+            long sender = intent.getLongExtra("sender",0);
+            long receiver = intent.getLongExtra("receiver",0);
+            AppRTCClient.ImRTCSession session =  ImRTCClient.getImRTCClient().getImRTCSession();
+            if(session == null) {
+                session.receiver = receiver;
+                session.sender = sender;
+                session.direct = AppRTCClient.ImRTCSession.DIRECT_OUT;
+                session.state = AppRTCClient.ImRTCSession.STATE_HOOK;
+                ImRTCClient.getImRTCClient().addImRTCSession(session);
+                ConnectActivity.connectToRoom(getApplicationContext(),"172.25.1.12",false,false,"",0);
+            }
+        }
+    };
+
 
 
     private void refreshHost() {
@@ -170,5 +240,25 @@ public class HttApplication extends Application {
     }
 
 
-
+    @Override
+    public void sendMessage(String msg) {
+        Log.d(Configure.TAG,"send message "+msg);
+        AppRTCClient.ImRTCSession session = ImRTCClient.getImRTCClient().getImRTCSession();
+        if(session != null) {
+            VOIPControl ctl = new VOIPControl();
+            if(session.direct == AppRTCClient.ImRTCSession.DIRECT_IN) {
+                ctl.sender = session.receiver;
+                ctl.receiver = session.sender;
+            }else if(session.direct == AppRTCClient.ImRTCSession.DIRECT_OUT){
+                ctl.sender = session.sender;
+                ctl.receiver = session.receiver;
+            }
+            try {
+                ctl.content = msg.getBytes("UTF-8");
+            } catch (UnsupportedEncodingException e) {
+                e.printStackTrace();
+            }
+            IMService.getInstance().sendVOIPControl(ctl);
+        }
+    }
 }

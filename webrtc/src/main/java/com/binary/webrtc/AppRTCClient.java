@@ -40,6 +40,30 @@ public interface AppRTCClient {
     }
   }
 
+  class ImRTCSession {
+      public static final int STATE_HOOK = 1;
+      public static final int STATE_IDE = 2;
+      public static final int STATE_RING = 3;
+      public static final int DIRECT_OUT = 10;
+      public static final int DIRECT_IN = 11;
+      public long sender;
+      public long receiver;
+      public int  state;
+      public int  direct;
+
+      public ImRTCSession() {
+
+      }
+
+      public ImRTCSession(long s,long r,int state) {
+         this.sender = s;
+         this.receiver = r;
+         this.state = state;
+      }
+  }
+
+  void addImRTCSession(ImRTCSession session);
+  ImRTCSession getImRTCSession();
   /**
    * Asynchronously connect to an AppRTC room URL using supplied connection
    * parameters. Once connection is established onConnectedToRoom()

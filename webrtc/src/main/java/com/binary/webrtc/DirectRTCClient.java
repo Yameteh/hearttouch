@@ -69,6 +69,16 @@ public class DirectRTCClient implements AppRTCClient, TCPChannelClient.TCPChanne
     roomState = ConnectionState.NEW;
   }
 
+  @Override
+  public void addImRTCSession(ImRTCSession session) {
+
+  }
+
+  @Override
+  public ImRTCSession getImRTCSession() {
+    return null;
+  }
+
   /**
    * Connects to the room, roomId in connectionsParameters is required. roomId must be a valid
    * IP address matching IP_PATTERN.

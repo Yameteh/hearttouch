@@ -24,6 +24,7 @@ import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
+import android.text.TextUtils;
 import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.View;
@@ -51,6 +52,7 @@ import org.webrtc.CameraEnumerator;
 import org.webrtc.FileVideoCapturer;
 import org.webrtc.IceCandidate;
 import org.webrtc.Logging;
+import org.webrtc.PeerConnection;
 import org.webrtc.PeerConnectionFactory;
 import org.webrtc.RendererCommon.ScalingType;
 import org.webrtc.ScreenCapturerAndroid;
@@ -114,6 +116,7 @@ public class CallActivity extends Activity implements AppRTCClient.SignalingEven
   public static final String EXTRA_USE_VALUES_FROM_INTENT =
       "com.binary.webrtc.USE_VALUES_FROM_INTENT";
   public static final String EXTRA_DATA_CHANNEL_ENABLED = "com.binary.webrtc.DATA_CHANNEL_ENABLED";
+  public static final String EXTRA_OUTGOING_OFFER = "outgoingoffer";
   public static final String EXTRA_ORDERED = "com.binary.webrtc.ORDERED";
   public static final String EXTRA_MAX_RETRANSMITS_MS = "com.binary.webrtc.MAX_RETRANSMITS_MS";
   public static final String EXTRA_MAX_RETRANSMITS = "com.binary.webrtc.MAX_RETRANSMITS";
@@ -350,7 +353,9 @@ public class CallActivity extends Activity implements AppRTCClient.SignalingEven
       appRtcClient = new WebSocketRTCClient(this);
     } else {
       Log.i(TAG, "Using DirectRTCClient because room name looks like an IP.");
-      appRtcClient = new DirectRTCClient(this);
+      appRtcClient = ImRTCClient.getImRTCClient();
+      ImRTCClient.getImRTCClient().setSignalingEvents(this);
+      //appRtcClient = new DirectRTCClient(this);
     }
     // Create connection parameters.
     String urlParameters = intent.getStringExtra(EXTRA_URLPARAMETERS);
@@ -395,7 +400,33 @@ public class CallActivity extends Activity implements AppRTCClient.SignalingEven
     } else {
       startCall();
     }
+    String offer = intent.getStringExtra(CallActivity.EXTRA_OUTGOING_OFFER);
+    if(TextUtils.isEmpty(offer)) {
+        ImRTCClient.getImRTCClient().onImMessageReceived(offer);
+    }else {
+        Log.d(TAG,"outgoing");
+        List<PeerConnection.IceServer> iceServerList = new ArrayList<>();
+        List<String> urls = new ArrayList<>();
+        urls.add("turn:61.152.175.119:3478");
+        PeerConnection.IceServer.Builder builder = PeerConnection.IceServer.builder(urls);
+        builder.setUsername("test");
+        builder.setPassword("test");
+        iceServerList.add(builder.createIceServer());
+        AppRTCClient.SignalingParameters parameters = new AppRTCClient.SignalingParameters(
+                // Ice servers are not needed for direct connections.
+                iceServerList,
+                true, // Server side acts as the initiator on direct connections.
+                null, // clientId
+                null, // wssUrl
+                null, // wwsPostUrl
+                null, // offerSdp
+                null // iceCandidates
+        );
+        onConnectedToRoom(parameters);
+    }
   }
+
+
 
   @TargetApi(17)
   private DisplayMetrics getDisplayMetrics() {
