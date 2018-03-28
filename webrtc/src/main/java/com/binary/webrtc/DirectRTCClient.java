@@ -57,7 +57,7 @@ public class DirectRTCClient implements AppRTCClient, TCPChannelClient.TCPChanne
   private TCPChannelClient tcpClient;
   private RoomConnectionParameters connectionParameters;
 
-  private enum ConnectionState { NEW, CONNECTED, CLOSED, ERROR }
+  public enum ConnectionState { NEW, CONNECTED, CLOSED, ERROR }
 
   // All alterations of the room state should be done from inside the looper thread.
   private ConnectionState roomState;

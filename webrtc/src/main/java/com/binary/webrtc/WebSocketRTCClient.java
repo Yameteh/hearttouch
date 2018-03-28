@@ -63,6 +63,16 @@ public class WebSocketRTCClient implements AppRTCClient, WebSocketChannelEvents 
     handler = new Handler(handlerThread.getLooper());
   }
 
+  @Override
+  public void addImRTCSession(ImRTCSession session) {
+
+  }
+
+  @Override
+  public ImRTCSession getImRTCSession() {
+    return null;
+  }
+
   // --------------------------------------------------------------------
   // AppRTCClient interface implementation.
   // Asynchronously connect to an AppRTC room URL using supplied connection
